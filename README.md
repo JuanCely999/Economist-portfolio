@@ -19,7 +19,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Price Dynamics in the Departments of Colombia: Estimation of the Neo-Keynesian Phillips Curve](#Price-Dynamics-in-the-Departments-of-Colombia:-Estimation-of-the-Neo--Keynesian-Phillips-Curve)
+	+ [Price Dynamics in the Departments of Colombia: Estimation of the Neo Keynesian Phillips Curve](#price-dynamics-in-the-departments-of-colombia:-estimation-of-the-neo-keynesian-phillips-curve)
 	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
