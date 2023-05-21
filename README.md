@@ -20,8 +20,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Price Dynamics in the Departments of Colombia Estimation of the Neo Keynesian Phillips Curve](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
-	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
+	+ [Global trends and public policy elements](#global-trends-and-public-policy-elements)
+	+ [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)
@@ -45,5 +45,9 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Price Dynamics in the Departments of Colombia Estimation of the Neo-Keynesian Phillips Curve
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb) 
+
+
+### Global trends and public policy elements
+### Perceptions of Rural Community-Based Tourism in the Province of Alto Ricaurte, Boyacá
 
