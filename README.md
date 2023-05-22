@@ -28,7 +28,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter
 )
 - [Study Projects](#study-projects)
-	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
+	+ [Primary care medical study PowerBiR](#primary-care-medical-study-powerbir)
 	+ [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
 	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
 	+ [sklearn ML course](#sklearn-ml-course)
@@ -57,3 +57,6 @@ In this section I will list data analytics projects briefly describing the techn
 ### Analyzing the Spatial Configuration of Agriculture The Colombian Case
 ### Perception of the economy of Latin America and the Caribbean due to COVID-19: an analysis of sentiments on Twitter
 
+## Study Projects
+In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+### Primary care medical study PowerBiR
