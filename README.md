@@ -29,7 +29,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 )
 - [Study Projects](#study-projects)
 	+ [Primary care medical study PowerBiR](#primary-care-medical-study-powerbir)
-	+ [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
+	+ [Construction market study: Visota project](#construction-market-study-Visota-project)
 	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
 	+ [sklearn ML course](#sklearn-ml-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
@@ -60,3 +60,4 @@ In this section I will list data analytics projects briefly describing the techn
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 ### Primary care medical study PowerBiR
+### Construction market study: Visota project
