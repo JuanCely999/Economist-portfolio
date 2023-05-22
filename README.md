@@ -47,12 +47,12 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Price Dynamics in the Departments of Colombia Estimation of the Neo-Keynesian Phillips Curve
+### Price Dynamics in the Departments of Colombia: Estimation of the Neo-Keynesian Phillips Curve
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb) 
 
 
 ### Global trends and public policy elements
-### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca
+### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte, Boyaca
 ### Input output analysis an application for the economy of Boyaca Colombia
 ### Analyzing the Spatial Configuration of Agriculture The Colombian Case
 ### Perception of the economy of Latin America and the Caribbean due to COVID-19: an analysis of sentiments on Twitter
