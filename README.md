@@ -23,7 +23,10 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Global trends and public policy elements](#global-trends-and-public-policy-elements)
 	+ [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
 	+ [Input output analysis an application for the economy of Boyaca Colombia](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
-	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
+	+ [Analyzing the Spatial Configuration of Agriculture The Colombian Case](#analyzing-the-spatial-configuration-of-agriculture-the-colombian-case)
+	+ [Perception of the economy of Latin America and the Caribbean due to COVID 19 an analysis of sentiments on Twitter
+](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter
+)
 - [Study Projects](#study-projects)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
 	+ [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
@@ -51,4 +54,6 @@ In this section I will list data analytics projects briefly describing the techn
 ### Global trends and public policy elements
 ### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca
 ### Input output analysis an application for the economy of Boyaca Colombia
+### Analyzing the Spatial Configuration of Agriculture The Colombian Case
+### Perception of the economy of Latin America and the Caribbean due to COVID-19: an analysis of sentiments on Twitter
 
