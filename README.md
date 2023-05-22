@@ -22,7 +22,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Price Dynamics in the Departments of Colombia Estimation of the Neo Keynesian Phillips Curve](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
 	+ [Global trends and public policy elements](#global-trends-and-public-policy-elements)
 	+ [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
-	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
+	+ [Input output analysis an application for the economy of Boyaca Colombia](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
@@ -49,5 +49,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Global trends and public policy elements
-### Perceptions of Rural Community-Based Tourism in the Province of Alto Ricaurte, Boyacá
+### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca
+### Input output analysis an application for the economy of Boyaca Colombia
 
