@@ -2,8 +2,21 @@
 
 ## About
 
-Hi, I'm Juan Pabo Cely! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Department, and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company, starting from June 2021.      
-Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
+Hi. I am Juan Pablo Cely 👋
+Economist, professional with experience as a researcher, and data analyst, knowledge of Excel, Power Bi, learning Python code, R, SQL, exploratory data analysis, database management, financial indicators, logistics, and reporting. Ability to work in a team, under pressure, and according to established objectives.
+
+Job profile in research, data analysis, and economic and financial reports in universities and companies such as BEMORE, Nueva Licorera de Boyacá and OPREC.
+
+- 👨‍💻 All of my projects are available on [this page.](https://juancely999.github.io/web/)
+
+- 📝 I regularly write articles on [Google scholar](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC) or [Research Gate](https://www.researchgate.net/profile/Juan-Cely-Acero).
+
+- 📫 How to reach me **juanpablocely1@gmail.com**.
+
+- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1-qvhvNZguW5pfvnEhf_StG5oxTytK7dk/view)
+
+
+(https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
 
 My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC)     
 
@@ -61,3 +74,7 @@ In this section I will list data analytics projects briefly describing the techn
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 ### Primary care medical study PowerBiR
 ### Construction market study: Visota project
+### Economic studies of municipalities of Alto Ricaurte in Colombia
+### Analista de datos en proyecto energetico sostenible OPREC
+### Diagnostico de competitividad e innovación en Boyaca CREPIB
+
