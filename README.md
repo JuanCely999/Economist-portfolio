@@ -13,7 +13,7 @@ Job profile in research, data analysis, and economic and financial reports in un
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
-- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1-qvhvNZguW5pfvnEhf_StG5oxTytK7dk/view)
+- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1VV93wL00Rl3IC_Y0bQxzmAcKkfB6SuKD/view)
 
 
 (https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
