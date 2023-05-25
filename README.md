@@ -13,7 +13,7 @@ Job profile in research, data analysis, and economic and financial reports in un
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
-- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1kEI6OjgxlEm9xtEzrjPI2Qf5JI7wTln7/view)
+- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1ZhNG39w7zm1KfZihFDOPcbvbmkel8_1l/view)
 
 
 (https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
@@ -22,7 +22,7 @@ My article on Habr on matching two open data datasets with help of Machine Learn
 
 My blog on [this page](https://juancely999.github.io/web/)   
 
-My CV in [pdf](https://drive.google.com/file/d/1kEI6OjgxlEm9xtEzrjPI2Qf5JI7wTln7/view) 
+My CV in [pdf](https://drive.google.com/file/d/1ZhNG39w7zm1KfZihFDOPcbvbmkel8_1l/view) 
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
