@@ -43,7 +43,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Study Projects](#study-projects)
 	+ [Primary care medical study Power Bi and R](#primary-care-medical-study-power-bi-and-r)
 	+ [Construction market study: Visota project](#construction-market-study-Visota-project)
-	+ [Economic studies of municipalities of Alto Ricaurte in Colombia](#economic-studies-of-municipalities-of-alto-ricaurte-in -colombia)
+	+ [Economic studies of municipalities of Alto Ricaurte in Colombia](#economic-studies-of-municipalities-of-alto-ricaurte-in-colombia)
 	+ [Diagnosis of competitiveness and innovation in Boyaca CREPIB](#diagnosis-of-competitiveness-and-innovation-in-boyaca-crepib)
 	+ [Economic diagnosis of tourism in Paipa](#economic-diagnosis-of-tourism-in-paipa)
 	+ [Institucional trust for the tourism value in Tunja](#institucional-trust-for-the-tourism-value-in-tunja)
