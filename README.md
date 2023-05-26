@@ -41,7 +41,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter
 )
 - [Study Projects](#study-projects)
-	+ [Primary care medical study Power Bi-R](#primary-care-medical-study-power bir)
+	+ [Primary care medical study Power Bi and R](#primary-care-medical-study-power-bi-and-r)
 	+ [Construction market study: Visota project](#construction-market-study-Visota-project)
 	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
 	+ [sklearn ML course](#sklearn-ml-course)
@@ -72,7 +72,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
-### Primary care medical study Power Bi-R
+### Primary care medical study Power Bi and R
 ### Construction market study: Visota project
 ### Economic studies of municipalities of Alto Ricaurte in Colombia
 ### Analista de datos en proyecto energetico sostenible OPREC
