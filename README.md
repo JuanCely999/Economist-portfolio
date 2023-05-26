@@ -77,4 +77,17 @@ In this section I will provide links to my github repositories containing code a
 ### Economic studies of municipalities of Alto Ricaurte in Colombia
 ### Analista de datos en proyecto energetico sostenible OPREC
 ### Diagnostico de competitividad e innovación en Boyaca CREPIB
+### DIAGNOSTICO ECONÓMICO DE TURISMO EN PAIPA (BOYACÁ)
+### CONFIANZA INSTITUCIONAL PARA LA CADENA DE VALOR DEL TURISMO en Tunja
+### Taller matrices R
+### Publicaciones periodico El Diario
+### La practicas interculturales en la inclusion educativa en Tunja
+### Analisis del COVID 19 en Colombia
+### Estadistica historia en Boyacá
+### DETERMINANTS OF THE INTERMEDIATION RATE IN COLOMBIAN BANKS 
+### ESTIMACION DE MERCADO: FIJACIÓN TARIFAS DEL TEATRO SUÁREZ CIUDAD DE TUNJA
+### Asesoria de Maestria en Educación Diana
+### Impuesto predial en Tunja
+
+
 
