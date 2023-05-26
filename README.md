@@ -53,7 +53,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Master's in Education Advisory](#Master's-in-education-advisory)
 	+ [Property tax in Tunja](#property-tax-in-Tunja)
 	+ [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
-	+ [Opportunity cost of payments for environmental services](#Opportunity cost of payments for environmental services)
+	+ [Opportunity cost of payments for environmental services](#opportunity-cost-of-payments-for-environmental-services)
 	
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -70,30 +70,139 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Global trends and public policy elements
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte, Boyaca
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Input output analysis an application for the economy of Boyaca Colombia
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Analyzing the Spatial Configuration of Agriculture The Colombian Case
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Perception of the economy of Latin America and the Caribbean due to COVID-19: an analysis of sentiments on Twitter
-
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 ### Primary care medical study Power Bi and R
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Construction market study: Visota project
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Economic studies of municipalities of Alto Ricaurte in Colombia
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Diagnosis of competitiveness and innovation in Boyaca CREPIB
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Economic diagnosis of tourism in Paipa
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Institucional trust for the tourism value in Tunja
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### R matrix workshop
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Publications newspaper El Diario
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Intercultural practices in educational inclusion in Tunja
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Analysis of COVID 19 in Colombia
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Statistics history in Boyacá
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Determinants of the intermediation rate in colombian banks
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Market estimate: fixing rates for the Suarez Theater in Tunja
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Master's in Education Advisory 
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Property tax in Tunja
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Economic analysis of liquor production in the NLB
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 ### Opportunity cost of payments for environmental services
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
 
 
 ## Contacts
