@@ -94,4 +94,7 @@ In this section I will provide links to my github repositories containing code a
 ### Economic analysis of liquor production in the NLB
 
 
-
+## Contacts
+- LinkedIn: [@juancely04](https://www.linkedin.com/in/juan-cely04/)
+- Twitter: [@juancely04](https://twitter.com/JCely04)
+- E-mail: juanpablocely1@.lx@gmail.com
