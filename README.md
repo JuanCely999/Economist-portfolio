@@ -16,10 +16,6 @@ Job profile in research, data analysis, and economic and financial reports in un
 - 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1ZhNG39w7zm1KfZihFDOPcbvbmkel8_1l/view)
 
 
-(https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
-
-My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC)     
-
 My blog on [this page](https://juancely999.github.io/web/)   
 
 My CV in [pdf](https://drive.google.com/file/d/1ZhNG39w7zm1KfZihFDOPcbvbmkel8_1l/view) 
@@ -57,6 +53,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Master's in Education Advisory](#Master's-in-education-advisory)
 	+ [Property tax in Tunja](#property-tax-in-Tunja)
 	+ [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
+	+ [Opportunity cost of payments for environmental services](#Opportunity cost of payments for environmental services)
 	
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -65,7 +62,11 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Price Dynamics in the Departments of Colombia: Estimation of the Neo-Keynesian Phillips Curve
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb) 
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:**  
 
 
 ### Global trends and public policy elements
@@ -92,6 +93,7 @@ In this section I will provide links to my github repositories containing code a
 ### Master's in Education Advisory 
 ### Property tax in Tunja
 ### Economic analysis of liquor production in the NLB
+### Opportunity cost of payments for environmental services
 
 
 ## Contacts
