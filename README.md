@@ -43,17 +43,21 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Study Projects](#study-projects)
 	+ [Primary care medical study Power Bi and R](#primary-care-medical-study-power-bi-and-r)
 	+ [Construction market study: Visota project](#construction-market-study-Visota-project)
-	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
-	+ [sklearn ML course](#sklearn-ml-course)
-	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
-	+ [Data Analysis Course](#data-analyst-specialization)
-	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
-	+ [Learning SQL](#learning-sql)
-	+ [Python Developer Track](#python-developer-track)
-	+ [Computer Science Career Path](#computer-science-career-path)
-	+ [Google Python Class](#google-python-class)
-	+ [Side Projects](#side-projects)
-	+ [Tableau Vizzes](#tableau-vizzes)
+	+ [Economic studies of municipalities of Alto Ricaurte in Colombia](#Economic studies of municipalities of Alto Ricaurte in Colombia)
+	+ [Diagnosis of competitiveness and innovation in Boyaca CREPIB](#Diagnosis of competitiveness and innovation in Boyaca CREPIB)
+	+ [Economic diagnosis of tourism in Paipa](#Economic diagnosis of tourism in Paipa)
+	+ [Institucional trust for the tourism value in Tunja](#Institucional trust for the tourism value in Tunja)
+	+ [R matrix workshop](#R matrix workshop)
+	+ [Publications newspaper El Diario](#Publications newspaper El Diario)
+	+ [Intercultural practices in educational inclusion in Tunja](#Intercultural practices in educational inclusion in Tunja)
+	+ [Analysis of COVID 19 in Colombia](# Analysis of COVID 19 in Colombia)
+	+ [Statistics history in Boyaca](#Statistics history in Boyacá)
+	+ [Determinants of the intermediation rate in colombian banks](#Determinants of the intermediation rate in colombian banks)
+	+ [Market estimate: fixing rates for the Suarez Theater in Tunja](#Market estimate: fixing rates for the Suarez Theater in Tunja)
+	+ [Master's in Education Advisory](#Master's in Education Advisory)
+	+ [Property tax in Tunja](#Property tax in Tunja)
+	+ [Economic analysis of liquor production in the NLB](#Economic analysis of liquor production in the NLB)
+	
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -75,19 +79,19 @@ In this section I will provide links to my github repositories containing code a
 ### Primary care medical study Power Bi and R
 ### Construction market study: Visota project
 ### Economic studies of municipalities of Alto Ricaurte in Colombia
-### Analista de datos en proyecto energetico sostenible OPREC
-### Diagnostico de competitividad e innovación en Boyaca CREPIB
-### DIAGNOSTICO ECONÓMICO DE TURISMO EN PAIPA (BOYACÁ)
-### CONFIANZA INSTITUCIONAL PARA LA CADENA DE VALOR DEL TURISMO en Tunja
-### Taller matrices R
-### Publicaciones periodico El Diario
-### La practicas interculturales en la inclusion educativa en Tunja
-### Analisis del COVID 19 en Colombia
-### Estadistica historia en Boyacá
-### DETERMINANTS OF THE INTERMEDIATION RATE IN COLOMBIAN BANKS 
-### ESTIMACION DE MERCADO: FIJACIÓN TARIFAS DEL TEATRO SUÁREZ CIUDAD DE TUNJA
-### Asesoria de Maestria en Educación Diana
-### Impuesto predial en Tunja
+### Diagnosis of competitiveness and innovation in Boyaca CREPIB
+### Economic diagnosis of tourism in Paipa
+### Institucional trust for the tourism value in Tunja
+### R matrix workshop
+### Publications newspaper El Diario
+### Intercultural practices in educational inclusion in Tunja
+### Analysis of COVID 19 in Colombia
+### Statistics history in Boyacá
+### Determinants of the intermediation rate in colombian banks
+### Market estimate: fixing rates for the Suarez Theater in Tunja
+### Master's in Education Advisory 
+### Property tax in Tunja
+### Economic analysis of liquor production in the NLB
 
 
 
