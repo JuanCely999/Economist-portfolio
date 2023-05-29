@@ -64,11 +64,11 @@ In this section I will list data analytics projects briefly describing the techn
 ### Price Dynamics in the Departments of Colombia: Estimation of the Neo-Keynesian Phillips Curve
 **Code:**  [`Tesis.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis) 
 
-**Description:**  This project is carried out for the [`degree thesis`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) and its subsequent [`publication`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf)
+**Description:**  This project is carried out for the [`degree thesis`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) and its subsequent [`publication`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
 
-**Skills:**
-**Technology:**   
-**Results:**  
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, data anomalies detection, checking splitting system, calculating conversion rate.
+**Technology:**   R, STATA, SQL, Python.
+**Results:**  Price formation presents differential behaviors between the geographical regions of the country. The departments in the center of the country are less likely to have their companies keep prices unchanged, highlighting the role of expected inflation and marginal costs. On the contrary, the departments of the coastal zones show a greater degree of rigidity in prices, since the companies take more time to modify them. The results are oriented to the conduct of monetary policy in Colombia.
 
 
 ### Global trends and public policy elements
