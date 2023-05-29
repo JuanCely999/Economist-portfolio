@@ -159,11 +159,12 @@ In this section I will provide links to my github repositories containing code a
 **Technology:**  R.
 
 ### Construction market study: Visota project
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:**  [`alo_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alo_studio).   
+
+**Description:**  Market study of the use of solid waste for its use in urban equipment ([`Visota project`](https://drive.google.com/file/d/1Kca3JLkn0V2DPyIPyEQH1mIEdfsyviZQ/view)).
+
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualization.
+**Technology:**  R, Python. 
 ### Economic studies of municipalities of Alto Ricaurte in Colombia
 **Code:**    
 **Description:**  
