@@ -33,7 +33,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Perception of the economy of Latin America and the Caribbean due to COVID 19 an analysis of sentiments on Twitter](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter)
 	+ [Input output analysis an application for the economy of Boyaca Colombia](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
 	+ [Analyzing the Spatial Configuration of Agriculture The Colombian Case](#analyzing-the-spatial-configuration-of-agriculture-the-colombian-case)
-        + [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
+	+ [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
         
 - [Study Projects](#study-projects)
 	+ [Primary care medical study Power Bi and R](#primary-care-medical-study-power-bi-and-r)
@@ -43,9 +43,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Diagnosis of competitiveness and innovation in Boyaca CREPIB](#diagnosis-of-competitiveness-and-innovation-in-boyaca-crepib)
 	+ [Economic diagnosis of tourism in Paipa](#economic-diagnosis-of-tourism-in-paipa)
 	+ [Institucional trust for the tourism value in Tunja](#institucional-trust-for-the-tourism-value-in-tunja)
-	+ 
-        + [Determinants of the intermediation rate in colombian banks](#determinants-of-the-intermediation-rate-in-colombian-banks)
-        + [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
+	+ [Determinants of the intermediation rate in colombian banks](#determinants-of-the-intermediation-rate-in-colombian-banks)
+	+ [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
 	+ [Opportunity cost of payments for environmental services](#opportunity-cost-of-payments-for-environmental-services)
 	+ [Analysis of COVID 19 in Colombia](#analysis-of-covid-19-in-colombia)
 	+ [Property tax in Tunja](#property-tax-in-Tunja)
