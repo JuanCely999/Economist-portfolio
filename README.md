@@ -76,17 +76,15 @@ In this section I will list data analytics projects briefly describing the techn
 ### Global trends and public policy elements
 **Code:** [`tenden_gober`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tenden_gober).
 
-**Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view) of this [`book`](https://books.google.es/books?hl=es&lr=&id=2tpDEAAAQBAJ&oi=fnd&pg=PT7&ots=jYyLG_utmi&sig=OeZ5CMawDe1yJFEGnS_-seOh_Q0#v=onepage&q&f=false).
+**Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view) of this [`book`](https://books.google.es/books?hl=es&lr=&id=2tpDEAAAQBAJ&oi=fnd&pg=PT7&ots=jYyLG_utmi&sig=OeZ5CMawDe1yJFEGnS_-seOh_Q0#v=onepage&q&f=false). A bibliometric analysis of the publications in databases such as Scopus and Web of Science is carried out. Neural networks are created in cooperation by country, university and author. In addition, web scrapping is carried out on Twitter to analyze the interaction on tourism issues for the population of Colombia, South America, North America, South Asia, South Africa, Europe and Oceania. Sentiment analysis is carried out, opinion mining. Finally, the trends in Google in the national and international tourism market are analyzed.
 
-  
-
-
-**Skills:**
-**Technology:**   R, Python, Vantage point
-**Results:** 
+**Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization. 
+**Technology:**   R, Python, Vantage point, google analytics.
+**Results:** A large part of the publications on tourism address issues that currently lack sufficient research, such as the case of the impact that social networks and web pages have on the dissemination of information and acceptance by the general public. The comments and searches focused on tourism on the web, at the moment of reducing their intensity, governance appears more frequently -although due to non-conformity- as the absence of global factors that the world is currently going through.
 ### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte, Boyaca
-**Code:**    
-**Description:**  
+**Code:** [`alto_ricaurte.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
+
+**Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf).
 **Skills:**
 **Technology:**   
 **Results:** 
