@@ -40,7 +40,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Publications newspaper El Diario](#publications-newspaper-el-diario)
 	+ [Analysis of COVID 19 in Colombia](#analysis-of-covid-19-in-colombia)
 	+ [Construction market study: Visota project](#construction-market-study-Visota-project)
-	+ [Economic studies of municipalities of Alto Ricaurte in Colombia](#economic-studies-of-municipalities-of-alto-ricaurte-in-colombia)
 	+ [Diagnosis of competitiveness and innovation in Boyaca CREPIB](#diagnosis-of-competitiveness-and-innovation-in-boyaca-crepib)
 	+ [Economic diagnosis of tourism in Paipa](#economic-diagnosis-of-tourism-in-paipa)
 	+ [Institucional trust for the tourism value in Tunja](#institucional-trust-for-the-tourism-value-in-tunja)
@@ -166,22 +165,12 @@ In this section I will provide links to my github repositories containing code a
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualization.
 
 **Technology:**  R, Python, Latex 
-### Economic studies of municipalities of Alto Ricaurte in Colombia
-**Code:**    
 
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
-### Diagnosis of competitiveness and innovation in Boyaca CREPIB
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
 ### Economic diagnosis of tourism in Paipa
-**Code:**    
-**Description:**  
+**Code:**  [`andrade_code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R).
+
+**Description:** An economic characterization of the tourism sector in Paipa is carried out [`here`](https://drive.google.com/file/d/1NLBcfktk75xCYte_aVh2PMIhG93dRbMX/view). 
+
 **Skills:**
 **Technology:**   
 **Results:** 
