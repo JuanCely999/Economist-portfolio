@@ -43,6 +43,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Diagnosis of competitiveness and innovation in Boyaca CREPIB](#diagnosis-of-competitiveness-and-innovation-in-boyaca-crepib)
 	+ [Economic diagnosis of tourism in Paipa](#economic-diagnosis-of-tourism-in-paipa)
 	+ [Institucional trust for the tourism value in Tunja](#institucional-trust-for-the-tourism-value-in-tunja)
+	+ 
         + [Determinants of the intermediation rate in colombian banks](#determinants-of-the-intermediation-rate-in-colombian-banks)
         + [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
 	+ [Opportunity cost of payments for environmental services](#opportunity-cost-of-payments-for-environmental-services)
