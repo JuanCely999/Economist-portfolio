@@ -87,7 +87,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte, Boyaca
 **Code:** [`alto_ricaurte.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
-**Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out
+**Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out.
 
 **Skills:** descriptive statistics, data visualization, opinion mining, data mining.
 
@@ -96,11 +96,16 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.
 
 ### Input output analysis an application for the economy of Boyaca Colombia
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:** [`analisis_insumo.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
+
+**Description:**  This project is carried out for the publication of this [`article`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567). Based on the branches of economic activity, the base, independent, key and driving sectors are determined according to matrix calculations. Then the income, employment and product multipliers are evaluated by correlations and 3D visualizations. 
+
+**Skills:**  descriptive statistics, data visualization, data cleaning, data transforms, data analysis.
+
+**Technology:** Advanced Excel, R. 
+
+**Results:** Low multipliers in most branches of the economy which demonstrates the low diversification of the economy and backwardness compared to other departments. There is little integration of the economy, this is denoted by the exaggerated number of independent sectors and the incipient key sectors.
+
 ### Analyzing the Spatial Configuration of Agriculture The Colombian Case
 **Code:**    
 **Description:**  
