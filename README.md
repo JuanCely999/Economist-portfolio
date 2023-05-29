@@ -171,9 +171,10 @@ In this section I will provide links to my github repositories containing code a
 
 **Description:** An economic characterization of the tourism sector in Paipa is carried out [`here`](https://drive.google.com/file/d/1NLBcfktk75xCYte_aVh2PMIhG93dRbMX/view). 
 
-**Skills:**
-**Technology:**   
-**Results:** 
+**Skills:** Data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization. 
+
+**Technology:**   R, Python, google analytics.  
+
 ### Institucional trust for the tourism value in Tunja
 **Code:**    
 **Description:**  
