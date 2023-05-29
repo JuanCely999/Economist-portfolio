@@ -34,6 +34,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Input output analysis an application for the economy of Boyaca Colombia](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
 	+ [Analyzing the Spatial Configuration of Agriculture The Colombian Case](#analyzing-the-spatial-configuration-of-agriculture-the-colombian-case)
         + [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
+        
 - [Study Projects](#study-projects)
 	+ [Primary care medical study Power Bi and R](#primary-care-medical-study-power-bi-and-r)
 	+ [Publications newspaper El Diario](#publications-newspaper-el-diario)
