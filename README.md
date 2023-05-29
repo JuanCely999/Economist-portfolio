@@ -30,30 +30,29 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Portfolio Projects](#portfolio-projects)
 	+ [Price Dynamics in the Departments of Colombia Estimation of the Neo Keynesian Phillips Curve](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
 	+ [Global trends and public policy elements](#global-trends-and-public-policy-elements)
-	+ [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
+	+ [Perception of the economy of Latin America and the Caribbean due to COVID 19 an analysis of sentiments on Twitter](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter)
 	+ [Input output analysis an application for the economy of Boyaca Colombia](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
 	+ [Analyzing the Spatial Configuration of Agriculture The Colombian Case](#analyzing-the-spatial-configuration-of-agriculture-the-colombian-case)
-	+ [Perception of the economy of Latin America and the Caribbean due to COVID 19 an analysis of sentiments on Twitter
-](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter
-)
+        + [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
 - [Study Projects](#study-projects)
 	+ [Primary care medical study Power Bi and R](#primary-care-medical-study-power-bi-and-r)
+	+ [Publications newspaper El Diario](#publications-newspaper-el-diario)
 	+ [Construction market study: Visota project](#construction-market-study-Visota-project)
 	+ [Economic studies of municipalities of Alto Ricaurte in Colombia](#economic-studies-of-municipalities-of-alto-ricaurte-in-colombia)
 	+ [Diagnosis of competitiveness and innovation in Boyaca CREPIB](#diagnosis-of-competitiveness-and-innovation-in-boyaca-crepib)
 	+ [Economic diagnosis of tourism in Paipa](#economic-diagnosis-of-tourism-in-paipa)
 	+ [Institucional trust for the tourism value in Tunja](#institucional-trust-for-the-tourism-value-in-tunja)
-	+ [R matrix workshop](#r-matrix-workshop)
-	+ [Publications newspaper El Diario](#publications-newspaper-el-diario)
-	+ [Intercultural practices in educational inclusion in Tunja](#intercultural-practices-in-educational-inclusion-in-Tunja)
+        + [Determinants of the intermediation rate in colombian banks](#determinants-of-the-intermediation-rate-in-colombian-banks)
+        + [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
+	+ [Opportunity cost of payments for environmental services](#opportunity-cost-of-payments-for-environmental-services)
 	+ [Analysis of COVID 19 in Colombia](#analysis-of-covid-19-in-colombia)
+	+ [Property tax in Tunja](#property-tax-in-Tunja)
+	+ [R matrix workshop](#r-matrix-workshop)
+	+ [Intercultural practices in educational inclusion in Tunja](#intercultural-practices-in-educational-inclusion-in-Tunja)
 	+ [Statistics history in Boyaca](#statistics-history-in-boyaca)
-	+ [Determinants of the intermediation rate in colombian banks](#determinants-of-the-intermediation-rate-in-colombian-banks)
 	+ [Market estimate: fixing rates for the Suarez Theater in Tunja](#market-estimate-fixing-rates-for-the-suarez-theater-in-Tunja)
 	+ [Master's in Education Advisory](#Master's-in-education-advisory)
-	+ [Property tax in Tunja](#property-tax-in-Tunja)
-	+ [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
-	+ [Opportunity cost of payments for environmental services](#opportunity-cost-of-payments-for-environmental-services)
+	
 	
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -120,15 +119,23 @@ In this section I will list data analytics projects briefly describing the techn
 ### Perception of the economy of Latin America and the Caribbean due to COVID-19: an analysis of sentiments on Twitter
 **Code:** [`art_econ`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/art_econ).
 
-**Description:**  This project is carried out for the publication of this [`article`](https://www.researchgate.net/publication/370943773_Percepcion_de_la_economia_de_America_Latina_y_el_Caribe_por_COVID-19_un_analisis_de_sentimientos_en_Twitter).
+**Description:**  This project is carried out for the publication of this [`article`](https://www.researchgate.net/publication/370943773_Percepcion_de_la_economia_de_America_Latina_y_el_Caribe_por_COVID-19_un_analisis_de_sentimientos_en_Twitter). Factors associated with positive and negative aspects are explored in an analysis of society's sentiments about the perception of the economy in the midst of the health crisis. This is done from Twitter data (575.865 tweets) in the countries of Latin America and the Caribbean.
 
-**Skills:**
-**Technology:**   
-**Results:** 
+**Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization. 
+
+**Technology:** R, Python.   
+
+**Results:** The search for public sensations experienced during the crisis brought with it an increase in comments on issues related to the economy, containing negative perceptions.
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 ### Primary care medical study Power Bi and R
+**Code:**    
+**Description:**  
+**Skills:**
+**Technology:**   
+**Results:** 
+### Publications newspaper El Diario
 **Code:**    
 **Description:**  
 **Skills:**
@@ -170,12 +177,7 @@ In this section I will provide links to my github repositories containing code a
 **Skills:**
 **Technology:**   
 **Results:** 
-### Publications newspaper El Diario
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+
 ### Intercultural practices in educational inclusion in Tunja
 **Code:**    
 **Description:**  
