@@ -62,7 +62,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Price Dynamics in the Departments of Colombia: Estimation of the Neo-Keynesian Phillips Curve
-**Code:**  [`Tesis.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
+**Code:**  [`Tesis`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
 
 **Description:**  This project is carried out for the [`degree thesis`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) and its subsequent [`article`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
 
@@ -85,7 +85,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** A large part of the publications on tourism address issues that currently lack sufficient research, such as the case of the impact that social networks and web pages have on the dissemination of information and acceptance by the general public. The comments and searches focused on tourism on the web, at the moment of reducing their intensity, governance appears more frequently -although due to non-conformity- as the absence of global factors that the world is currently going through.
 
 ### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte, Boyaca
-**Code:** [`alto_ricaurte.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
+**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
 **Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out.
 
@@ -96,7 +96,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.
 
 ### Input output analysis an application for the economy of Boyaca Colombia
-**Code:** [`analisis_insumo.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
+**Code:** [`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
 
 **Description:**  This project is carried out for the publication of this [`article`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567). Based on the branches of economic activity, the base, independent, key and driving sectors are determined according to matrix calculations. Then the income, employment and product multipliers are evaluated by correlations and 3D visualizations. 
 
@@ -107,14 +107,21 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Low multipliers in most branches of the economy which demonstrates the low diversification of the economy and backwardness compared to other departments. There is little integration of the economy, this is denoted by the exaggerated number of independent sectors and the incipient key sectors.
 
 ### Analyzing the Spatial Configuration of Agriculture The Colombian Case
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:** [`chapter`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Chapter).
+
+**Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1hP-mO_OGtPyKMCzf9cJ68bp0jsGJg1Qz/view) of this [`book`](https://www.igi-global.com/chapter/analyzing-the-spatial-configuration-of-agriculture/317831). It applies a procedure related to the Geographic Information Systems and sets forth a descriptive approach for recognizing recent trends in the Colombian agriculture output. In order to convert the production analysis into a spatial perspective, a differentiated analysis must be mainly implemented to streamline the economic data and the spatial positioning. 
+
+**Skills:**   data cleaning, data transforms, data analysis, descriptive statistics, data visualization, geospatial data.
+
+**Technology:**  R, Python. 
+
+**Results:** The spatial analysis of the agricultural output reveals a random distribution across the territory demonstrating the diversity of production and a scattered spatial pattern. The disparate diversity of the production appears inconsistent with the scarce diversification of the Colombian export supply.
+
 ### Perception of the economy of Latin America and the Caribbean due to COVID-19: an analysis of sentiments on Twitter
-**Code:**    
-**Description:**  
+**Code:** [`art_econ`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/art_econ).
+
+**Description:**  This project is carried out for the publication of this [`article`](https://www.researchgate.net/publication/370943773_Percepcion_de_la_economia_de_America_Latina_y_el_Caribe_por_COVID-19_un_analisis_de_sentimientos_en_Twitter).
+
 **Skills:**
 **Technology:**   
 **Results:** 
