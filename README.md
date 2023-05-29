@@ -38,6 +38,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Study Projects](#study-projects)
 	+ [Primary care medical study Power Bi and R](#primary-care-medical-study-power-bi-and-r)
 	+ [Publications newspaper El Diario](#publications-newspaper-el-diario)
+	+ [Analysis of COVID 19 in Colombia](#analysis-of-covid-19-in-colombia)
 	+ [Construction market study: Visota project](#construction-market-study-Visota-project)
 	+ [Economic studies of municipalities of Alto Ricaurte in Colombia](#economic-studies-of-municipalities-of-alto-ricaurte-in-colombia)
 	+ [Diagnosis of competitiveness and innovation in Boyaca CREPIB](#diagnosis-of-competitiveness-and-innovation-in-boyaca-crepib)
@@ -46,7 +47,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Determinants of the intermediation rate in colombian banks](#determinants-of-the-intermediation-rate-in-colombian-banks)
 	+ [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
 	+ [Opportunity cost of payments for environmental services](#opportunity-cost-of-payments-for-environmental-services)
-	+ [Analysis of COVID 19 in Colombia](#analysis-of-covid-19-in-colombia)
 	+ [Property tax in Tunja](#property-tax-in-Tunja)
 	+ [R matrix workshop](#r-matrix-workshop)
 	+ [Intercultural practices in educational inclusion in Tunja](#intercultural-practices-in-educational-inclusion-in-Tunja)
@@ -133,11 +133,23 @@ In this section I will list data analytics projects briefly describing the techn
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 ### Primary care medical study Power Bi and R
 **Code:** [`Power Bi`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection) y [`cancer`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)  
+
 **Description:**  Analysis of indicators such as population characterization and primary care in the EPS Sanitas
+
 **Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization.
+
 **Technology:**   R, Power Bi.
 
 ### Publications newspaper El Diario
+**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
+
+**Description:**  Three publications were made in the newspaper El diario analyzing the situation of the pandemic: [`Business panorama in Boyacá due to the covid-19 crisis`](https://periodicoeldiario.com/panorama-empresarial-en-boyaca-por-crisis-del-covid-19/),[`This is how the pandemic has hit the different productive sectors of Boyacá`](https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/), [`Pandemic and the agony of the vulnerable population in Boyacá`](https://periodicoeldiario.com/pandemia-y-la-agonia-de-la-poblacion-vulnerable-en-boyaca/).
+
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization.
+
+**Technology:** R, Python.   
+
+### Analysis of COVID 19 in Colombia
 **Code:**    
 **Description:**  
 **Skills:**
@@ -186,12 +198,6 @@ In this section I will provide links to my github repositories containing code a
 **Technology:**   
 **Results:** 
 ### Opportunity cost of payments for environmental services
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
-### Analysis of COVID 19 in Colombia
 **Code:**    
 **Description:**  
 **Skills:**
