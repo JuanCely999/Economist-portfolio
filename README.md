@@ -132,11 +132,11 @@ In this section I will list data analytics projects briefly describing the techn
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 ### Primary care medical study Power Bi and R
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:** [`Power Bi`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection) y [`cancer`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)  
+**Description:**  Analysis of indicators such as population characterization and primary care in the EPS Sanitas
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization.
+**Technology:**   R, Power Bi.
+
 ### Publications newspaper El Diario
 **Code:**    
 **Description:**  
