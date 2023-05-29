@@ -120,11 +120,11 @@ In this section I will list data analytics projects briefly describing the techn
 ### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte, Boyaca
 **Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
-**Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out.
+**Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out. More visualizations are added [`here`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view)
 
 **Skills:** descriptive statistics, data visualization, opinion mining, data mining.
 
-**Technology:**  R, Python.
+**Technology:**  R, Python, Latex
 
 **Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.
 
@@ -164,9 +164,11 @@ In this section I will provide links to my github repositories containing code a
 **Description:**  Market study of the use of solid waste for its use in urban equipment ([`Visota project`](https://drive.google.com/file/d/1Kca3JLkn0V2DPyIPyEQH1mIEdfsyviZQ/view)).
 
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualization.
-**Technology:**  R, Python. 
+
+**Technology:**  R, Python, Latex 
 ### Economic studies of municipalities of Alto Ricaurte in Colombia
 **Code:**    
+
 **Description:**  
 **Skills:**
 **Technology:**   
