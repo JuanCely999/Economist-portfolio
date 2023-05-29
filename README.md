@@ -64,7 +64,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Price Dynamics in the Departments of Colombia: Estimation of the Neo-Keynesian Phillips Curve
 **Code:**  [`Tesis.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
 
-**Description:**  This project is carried out for the [`degree thesis`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) and its subsequent [`publication`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
+**Description:**  This project is carried out for the [`degree thesis`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) and its subsequent [`article`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
 
 **Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, bibliometric analysis, data anomalies detection, checking splitting system, calculating conversion rate.
 
@@ -79,15 +79,22 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view) of this [`book`](https://books.google.es/books?hl=es&lr=&id=2tpDEAAAQBAJ&oi=fnd&pg=PT7&ots=jYyLG_utmi&sig=OeZ5CMawDe1yJFEGnS_-seOh_Q0#v=onepage&q&f=false). A bibliometric analysis of the publications in databases such as Scopus and Web of Science is carried out. Neural networks are created in cooperation by country, university and author. In addition, web scrapping is carried out on Twitter to analyze the interaction on tourism issues for the population of Colombia, South America, North America, South Asia, South Africa, Europe and Oceania. Sentiment analysis is carried out, opinion mining. Finally, the trends in Google in the national and international tourism market are analyzed.
 
 **Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization. 
+
 **Technology:**   R, Python, Vantage point, google analytics.
+
 **Results:** A large part of the publications on tourism address issues that currently lack sufficient research, such as the case of the impact that social networks and web pages have on the dissemination of information and acceptance by the general public. The comments and searches focused on tourism on the web, at the moment of reducing their intensity, governance appears more frequently -although due to non-conformity- as the absence of global factors that the world is currently going through.
+
 ### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte, Boyaca
 **Code:** [`alto_ricaurte.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
-**Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf).
-**Skills:**
-**Technology:**   
-**Results:** 
+**Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out
+
+**Skills:** descriptive statistics, data visualization, opinion mining, data mining.
+
+**Technology:**  R, Python.
+
+**Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.
+
 ### Input output analysis an application for the economy of Boyaca Colombia
 **Code:**    
 **Description:**  
@@ -106,6 +113,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:**
 **Technology:**   
 **Results:** 
+
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 ### Primary care medical study Power Bi and R
@@ -168,7 +176,7 @@ In this section I will provide links to my github repositories containing code a
 **Skills:**
 **Technology:**   
 **Results:** 
-### Statistics history in Boyacá
+### Statistics history in Boyaca
 **Code:**    
 **Description:**  
 **Skills:**
