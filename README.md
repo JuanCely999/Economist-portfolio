@@ -150,11 +150,14 @@ In this section I will provide links to my github repositories containing code a
 **Technology:** R, Python.   
 
 ### Analysis of COVID 19 in Colombia
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:** [`covid`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/covid). 
+
+**Description:**  Dynamic visualization of the [`covid in Colombia`](https://twitter.com/jcely04/status/1250860372699025408).
+
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualization.
+
+**Technology:**  R.
+
 ### Construction market study: Visota project
 **Code:**    
 **Description:**  
