@@ -63,7 +63,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Price Dynamics in the Departments of Colombia: Estimation of the Neo-Keynesian Phillips Curve
 **Code:**  [`Tesis.r`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis) 
+
 **Description:**  This project is carried out for the [`degree thesis`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) and its subsequent [`publication`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf)
+
 **Skills:**
 **Technology:**   
 **Results:**  
