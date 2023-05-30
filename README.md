@@ -65,7 +65,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:**  This project is carried out for the [`degree thesis`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) and its subsequent [`article`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
 
-**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, bibliometric analysis, data anomalies detection, checking splitting system, calculating conversion rate.
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, bibliometric analysis, data anomalies detection, checking splitting system, calculating conversion rate, writing report.
 
 **Technology:**   R, STATA, SQL, Python, Latex.
 
@@ -77,7 +77,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view) of this [`book`](https://books.google.es/books?hl=es&lr=&id=2tpDEAAAQBAJ&oi=fnd&pg=PT7&ots=jYyLG_utmi&sig=OeZ5CMawDe1yJFEGnS_-seOh_Q0#v=onepage&q&f=false). A bibliometric analysis of the publications in databases such as Scopus and Web of Science is carried out. Neural networks are created in cooperation by country, university and author. In addition, web scrapping is carried out on Twitter to analyze the interaction on tourism issues for the population of Colombia, South America, North America, South Asia, South Africa, Europe and Oceania. Sentiment analysis is carried out, opinion mining. Finally, the trends in Google in the national and international tourism market are analyzed.
 
-**Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization. 
+**Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report. 
 
 **Technology:**   R, Python, Vantage point, google analytics.
 
@@ -88,7 +88,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:**  This project is carried out for the publication of this [`article`](https://www.researchgate.net/publication/370943773_Percepcion_de_la_economia_de_America_Latina_y_el_Caribe_por_COVID-19_un_analisis_de_sentimientos_en_Twitter). Factors associated with positive and negative aspects are explored in an analysis of society's sentiments about the perception of the economy in the midst of the health crisis. This is done from Twitter data (575.865 tweets) in the countries of Latin America and the Caribbean.
 
-**Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization. 
+**Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report. 
 
 **Technology:** R, Python.   
 
@@ -99,7 +99,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:**  This project is carried out for the publication of this [`article`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567). Based on the branches of economic activity, the base, independent, key and driving sectors are determined according to matrix calculations. Then the income, employment and product multipliers are evaluated by correlations and 3D visualizations. 
 
-**Skills:**  descriptive statistics, data visualization, data cleaning, data transforms, data analysis.
+**Skills:**  descriptive statistics, data visualization, data cleaning, data transforms, data analysis, writing report.
 
 **Technology:** Advanced Excel, R. 
 
@@ -110,7 +110,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1hP-mO_OGtPyKMCzf9cJ68bp0jsGJg1Qz/view) of this [`book`](https://www.igi-global.com/chapter/analyzing-the-spatial-configuration-of-agriculture/317831). It applies a procedure related to the Geographic Information Systems and sets forth a descriptive approach for recognizing recent trends in the Colombian agriculture output. In order to convert the production analysis into a spatial perspective, a differentiated analysis must be mainly implemented to streamline the economic data and the spatial positioning. 
 
-**Skills:**   data cleaning, data transforms, data analysis, descriptive statistics, data visualization, geospatial data.
+**Skills:**   data cleaning, data transforms, data analysis, descriptive statistics, data visualization, geospatial data, writing report.
 
 **Technology:**  R, Python. 
 
@@ -121,7 +121,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out. More visualizations are added [`here`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view)
 
-**Skills:** descriptive statistics, data visualization, opinion mining, data mining.
+**Skills:** descriptive statistics, data visualization, opinion mining, data mining, writing report.
 
 **Technology:**  R, Python, Latex
 
@@ -144,7 +144,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Description:**  Three publications were made in the newspaper El diario analyzing the situation of the pandemic: [`Business panorama in Boyacá due to the covid-19 crisis`](https://periodicoeldiario.com/panorama-empresarial-en-boyaca-por-crisis-del-covid-19/),[`This is how the pandemic has hit the different productive sectors of Boyacá`](https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/), [`Pandemic and the agony of the vulnerable population in Boyacá`](https://periodicoeldiario.com/pandemia-y-la-agonia-de-la-poblacion-vulnerable-en-boyaca/).
 
-**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization.
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
 
 **Technology:** R, Python.   
 
@@ -162,7 +162,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Description:**  Market study of the use of solid waste for its use in urban equipment ([`Visota project`](https://drive.google.com/file/d/1Kca3JLkn0V2DPyIPyEQH1mIEdfsyviZQ/view)).
 
-**Skills:** data cleaning, data analysis, descriptive statistics, data visualization.
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualization, writing report.
 
 **Technology:**  R, Python, Latex 
 
@@ -171,16 +171,16 @@ In this section I will provide links to my github repositories containing code a
 
 **Description:** An economic characterization of the tourism sector in Paipa is carried out [`here`](https://drive.google.com/file/d/1NLBcfktk75xCYte_aVh2PMIhG93dRbMX/view). 
 
-**Skills:** Data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization. 
+**Skills:** Data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report. 
 
 **Technology:**   R, Python, google analytics.  
 
 ### Institucional trust for the tourism value in Tunja
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:**    [`lig_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio).
+**Description:**  The impact of the governance of the relations of the tourism value chain in Tunja and the use of social networks are evaluated [`here`](https://drive.google.com/file/d/1cFycBgkx6THfDz2QZ4V7qvJ9wWGnzg9T/view).
+**Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
+**Technology:** R, Python.
+
 ### Determinants of the intermediation rate in colombian banks
 **Code:**    
 **Description:**  
