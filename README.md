@@ -253,7 +253,7 @@ In this section I will provide links to my github repositories containing code a
 **Skills:** data cleaning, data analysis, data visualization, writing report.
 **Technology:**   Stata
 
-### Master's in Education Advisory 
+### Master in Education Advisory 
 **Code:**    [`tesis_pedagogia`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tesis%20pedagogia)
 
 **Description:** Advice on pedagogical research thesis [`here`](https://drive.google.com/file/d/14Fu3m1CSiMDeO3I0SkSAbiFMrr5AVh0r/view) 
