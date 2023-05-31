@@ -215,7 +215,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Description:**  Geospatial analysis of property tax in  [`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)([`Optional`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)).
 
-!["AdminLTE Presentation"]([https://adminlte.io/AdminLTE3.png](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view) "AdminLTE Presentation")
+!["AdminLTE Presentation"](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view "AdminLTE Presentation")
 
 **Skills:** data cleaning, data analysis.
 **Technology:**  R, Qgis 
