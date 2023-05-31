@@ -219,30 +219,38 @@ In this section I will provide links to my github repositories containing code a
 **Technology:**  R, Qgis 
 
 ### R matrix workshop
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:** [`Tareas`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tareas)
+
+**Description:**  Matrix calculation exercise
+
+**Skills:** data analysis.
+
+**Technology:**  R  
 
 ### Intercultural practices in educational inclusion in Tunja
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:**    [`inclusion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/inclusion)
+
+**Description:** Statistical analysis of educational inclusion in Tunja schools [`here`](https://drive.google.com/file/d/1cYL5iz9aZ-WYjxM8bDUKaXojRCYGS2Oo/view).
+
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, bibliometric analysis, data anomalies detection, checking splitting system, calculating conversion rate, writing report.
+
+**Technology:**   R, STATA, SQL, Python, Latex.
+
 ### Statistics history in Boyaca
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:**    [`bicentenario`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/bicentenario)
+
+**Description:** Exposure report in history ([`Figures`](https://drive.google.com/file/d/1JFvo2a9QfH72ObcqQmH1GSLSQhosWEnT/view)). 
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** R, Latex.  
+
 ### Market estimate: fixing rates for the Suarez Theater in Tunja
-**Code:**    
-**Description:**  
+**Code:**    [`estimacion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/Estimacion)
+**Description:**  [`estimacion`](https://drive.google.com/file/d/1QpzXnL8D_3fGfxslKmt75GsyXZpPD5fb/view)
 **Skills:**
 **Technology:**   
-**Results:** 
+
 ### Master's in Education Advisory 
 **Code:**    
 **Description:**  
