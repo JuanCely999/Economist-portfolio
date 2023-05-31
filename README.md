@@ -177,16 +177,22 @@ In this section I will provide links to my github repositories containing code a
 
 ### Institucional trust for the tourism value in Tunja
 **Code:**    [`lig_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio).
+
 **Description:**  The impact of the governance of the relations of the tourism value chain in Tunja and the use of social networks are evaluated [`here`](https://drive.google.com/file/d/1cFycBgkx6THfDz2QZ4V7qvJ9wWGnzg9T/view).
+
 **Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
+
 **Technology:** R, Python.
 
 ### Determinants of the intermediation rate in colombian banks
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:** [`rosso`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso). 
+
+**Description:** Financial research by professor [`Jhon Rosso`](https://www.researchgate.net/profile/John-Rosso)  and its subsequent publication.
+
+**Skills:** data cleaning, data analysis.
+
+**Technology:**  R, STATA.
+
 ### Economic analysis of liquor production in the NLB
 **Code:**    
 **Description:**  
