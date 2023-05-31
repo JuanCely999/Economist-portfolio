@@ -215,9 +215,8 @@ In this section I will provide links to my github repositories containing code a
 
 **Description:**  Geospatial analysis of property tax in  [`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)([`Optional`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)).
 
-!["Tunja"](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view "Tunja")
-
 **Skills:** data cleaning, data analysis.
+
 **Technology:**  R, Qgis 
 
 ### R matrix workshop
@@ -253,6 +252,7 @@ In this section I will provide links to my github repositories containing code a
 **Description:** Suarez theater market analysis [`here`](https://drive.google.com/file/d/1QpzXnL8D_3fGfxslKmt75GsyXZpPD5fb/view)
 
 **Skills:** data cleaning, data analysis, data visualization, writing report.
+
 **Technology:**   Stata
 
 ### Master in Education Advisory 
