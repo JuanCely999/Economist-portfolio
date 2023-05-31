@@ -213,11 +213,11 @@ In this section I will provide links to my github repositories containing code a
 ### Property tax in Tunja 
 **Code:** [`pemp`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp). 
 
-**Description:**  Geospatial analysis of property tax in  [`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)([`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)).
+**Description:**  Geospatial analysis of property tax in  [`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)([`Optional`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)).
 
 **Skills:** data cleaning, data analysis.
 **Technology:**  R, Qgis 
-**Results:** 
+
 ### R matrix workshop
 **Code:**    
 **Description:**  
