@@ -51,7 +51,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Intercultural practices in educational inclusion in Tunja](#intercultural-practices-in-educational-inclusion-in-Tunja)
 	+ [Statistics history in Boyaca](#statistics-history-in-boyaca)
 	+ [Market estimate: fixing rates for the Suarez Theater in Tunja](#market-estimate-fixing-rates-for-the-suarez-theater-in-Tunja)
-	+ [Master's in Education Advisory](#Master's-in-education-advisory)
+	+ [Master in Education Advisory](#Master-in-education-advisory)
 	
 	
 - [Certificates](#certificates)
@@ -268,4 +268,4 @@ In this section I will provide links to my github repositories containing code a
 ## Contacts
 - LinkedIn: [@juancely04](https://www.linkedin.com/in/juan-cely04/)
 - Twitter: [@juancely04](https://twitter.com/JCely04)
-- E-mail: juanpablocely1@.lx@gmail.com
+- E-mail: juanpablocely1@gmail.com
