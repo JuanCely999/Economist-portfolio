@@ -204,7 +204,7 @@ In this section I will provide links to my github repositories containing code a
 ### Opportunity cost of payments for environmental services
 **Code:**    [`costo_oportunidad`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Costo_oportunidad).  
 
-**Description:**  
+**Description:** Opportunity cost for service payments in the cultivation of panela cane [`here`](https://drive.google.com/file/d/1LlloNpkYS6ABJWQ9PRcnsnyZtALlFK6N/view
 
 **Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
 
@@ -257,7 +257,9 @@ In this section I will provide links to my github repositories containing code a
 **Code:**    [`tesis_pedagogia`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tesis%20pedagogia)
 
 **Description:** Advice on pedagogical research thesis [`here`](https://drive.google.com/file/d/14Fu3m1CSiMDeO3I0SkSAbiFMrr5AVh0r/view) 
+
 **Skills:** data cleaning, data analysis, data visualization, writing report.
+
 **Technology:**   R, Stata.
 
 
