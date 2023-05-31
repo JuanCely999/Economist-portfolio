@@ -194,22 +194,29 @@ In this section I will provide links to my github repositories containing code a
 **Technology:**  R, STATA.
 
 ### Economic analysis of liquor production in the NLB
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
+**Description:**  Analyze the current state of the economy of the liquor sector in the national and international market and estimate the production of the Nueva Licorera de boyacá for the period 2023-2027.
+
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
+
+**Technology:**   R, SQL, python.
+
 ### Opportunity cost of payments for environmental services
-**Code:**    
+**Code:**    [`costo_oportunidad`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Costo_oportunidad).  
+
 **Description:**  
+
 **Skills:**
-**Technology:**   
-**Results:** 
-### Property tax in Tunja
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
+
+**Technology:**  R, Python
+
+### Property tax in Tunja 
+**Code:** [`pemp`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp). 
+
+**Description:**  Geospatial analysis of property tax in  [`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)([`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)).
+
+**Skills:** data cleaning, data analysis.
+**Technology:**  R, Qgis 
 **Results:** 
 ### R matrix workshop
 **Code:**    
