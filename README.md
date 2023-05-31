@@ -206,7 +206,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Description:**  
 
-**Skills:**
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
 
 **Technology:**  R, Python
 
@@ -247,17 +247,18 @@ In this section I will provide links to my github repositories containing code a
 
 ### Market estimate: fixing rates for the Suarez Theater in Tunja
 **Code:**    [`estimacion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/Estimacion)
-**Description:**  [`estimacion`](https://drive.google.com/file/d/1QpzXnL8D_3fGfxslKmt75GsyXZpPD5fb/view)
-**Skills:**
-**Technology:**   
+
+**Description:** Suarez theater market analysis [`here`](https://drive.google.com/file/d/1QpzXnL8D_3fGfxslKmt75GsyXZpPD5fb/view)
+
+**Skills:** data cleaning, data analysis, data visualization, writing report.
+**Technology:**   Stata
 
 ### Master's in Education Advisory 
-**Code:**    
-**Description:**  
-**Skills:**
-**Technology:**   
-**Results:** 
+**Code:**    [`tesis_pedagogia`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tesis%20pedagogia)
 
+**Description:** Advice on pedagogical research thesis [`here`](https://drive.google.com/file/d/14Fu3m1CSiMDeO3I0SkSAbiFMrr5AVh0r/view) 
+**Skills:** data cleaning, data analysis, data visualization, writing report.
+**Technology:**   R, Stata.
 
 
 
