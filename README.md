@@ -18,7 +18,7 @@ Job profile in research, data analysis, and economic and financial reports in un
 
 My blog on [this page](https://juancely999.github.io/web/)   
 
-My CV in [pdf](https://drive.google.com/file/d/1ZhNG39w7zm1KfZihFDOPcbvbmkel8_1l/view) 
+My CV in [pdf](https://drive.google.com/file/d/18QsrKFEA7pWgsT8-QXVO8Tj0bkpk-EnL/view) 
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
