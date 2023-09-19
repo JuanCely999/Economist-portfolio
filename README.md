@@ -13,12 +13,11 @@ Job profile in research, data analysis, and economic and financial reports in un
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
-- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1v1mR0FxHrjj0MIN2RkyIwnhKbkWcUi5W/view)
+- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1i512XAslOlSIiJeUu8U-S7jbg0np5X3H/view)
 
 
 My blog on [this page](https://juancely999.github.io/web/)   
 
-My CV in [pdf](https://drive.google.com/file/d/1v1mR0FxHrjj0MIN2RkyIwnhKbkWcUi5W/view) 
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
