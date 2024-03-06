@@ -14,7 +14,7 @@ Let's connect and explore how I can contribute to your data initiatives.
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
-- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1LVGZctgtUL2AGgTLwR_fVosSrht245AJ/view)
+- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1JyfZtVRDrQ8_HfdQlKRyZgJq5Mt-3fzU/view)
 
 
 My blog on [this page](https://juancely999.github.io/web/)   
