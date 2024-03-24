@@ -24,7 +24,7 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
   
 
 ## Inhaltsverzeichnis
-- [Über mich](#Úber-mich)
+- [Über mich](#Über-mich)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien.](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
 	+ [Preisentwicklung in den Departements von Kolumbien: Schätzung der neoklassischen Phillipskurve.](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
