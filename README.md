@@ -61,7 +61,17 @@ In diesem Abschnitt werde ich Datenanalyseprojekte auflisten und kurz die verwen
 ### Wirtschaftsanalyse für das Spirituosenunternehmen von Boyaca Kolumbien
 
 
-<!-- Este es un comentario en Markdown usando HTML -->
+<!-- Este proyecto se realizo para la empresa de licores en Boyaca atravez de la universidad. El objetivo del proyecto consistio en definir la producción a futuro de la empresa licorera puesto que estaba enfrentando problemas debido a la pandemia. La empresa de licores se enfrentaba problemas financieros, puesto que durante la pandemia y despues cambiaron sus objetivos de producción hacia el distribuidor y esto afectaba su capacidad y efectividad en la producción
+Yo inicialmente realice extraccion de informacion de bases de datos de plataformas internacionales y locales para analizar la información del comportamiento de las ventas del licor. Además se analizo las ventas locales en todas las licoreras de Boyaca para compararla con esta empresa. Toda esta extracción de datos se realizo con R y Python.
+
+Para analizar el consumidor de licores de toda la region en diferentes periodos de tiempol, SQL fue la herramienta tecnologica utilizada para administrar el conjunto de datos. 
+
+Teniendo esta cantidad de datos, yo realice un modelo macroeconomico y otro modelo microeconomicos. El primero consistia en realizar un modelo de pronostico de ventas del 2023 al 2027 a partir de la información extraida de las ventas de los ultimos 15 años mensualmente. Se compararon más de 5 modelos para dar con el más realista al contexto mundial y nacional. Se identifico un crecimiento de las ventas masivo luego de la reducción de la pandemia, pero tiempo siguiente el consumo se estabilizo e incluso se redujo por el comportamiento mesurado del consumidor de licor.
+
+Por otra parte el siguiente modelo que realice fue un modelo microeconomico para analizar el comportamiento de los consumidores de la licorera. Luego de analizar este conjunto de datos se encontraron resultados importantes, uno de ellos fue que el crecimiento de la población con más bajos ingresos estan impulsando el consumo de licores y que la inflación a corto plazo junto con la expectativa positiva del consumidor ayudaria a tener mayores ventas en la licorera.
+Estos modelos se realizaron en R.
+
+Las visualizaciones se realizaron en herramientas como excel, tableu y power Bi. Yo realice un informe y luego yo realice presentaciones a los tomadores de descisiones de la licorera  -->
 **Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
 
 
