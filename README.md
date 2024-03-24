@@ -59,7 +59,14 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Wirtschaftsanalyse für das Spirituosenunternehmen von Boyaca Kolumbien
+**Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
+**Description:**  Analyze the current state of the economy of the liquor sector in the national and international market and estimate the production of the Nueva Licorera de boyacá for the period 2023-2027.
 
+[`informe`](https://drive.google.com/file/d/18LNEjL95YolaI55Mp0tNXLanL_KItndc/view)
+
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
+
+**Technology:**   R, SQL, python.
 
 **Code:**  [`Tesis`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
 
@@ -160,7 +167,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**  R.
 
-### Marktstudie für den Bau: Visota-Projekt
+### Marktstudie für den Bau: Visota Projekt
 **Code:**  [`alo_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alo_studio).   
 
 **Description:**  Market study of the use of solid waste for its use in urban equipment ([`Visota project`](https://drive.google.com/file/d/1Kca3JLkn0V2DPyIPyEQH1mIEdfsyviZQ/view)).
@@ -169,7 +176,9 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**  R, Python, Latex 
 
-### Economic diagnosis of tourism in Paipa
+### Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá - CREPIB
+
+### Wirtschaftsanalyse des Tourismus in Paipa
 **Code:**  [`andrade_code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R).
 
 **Description:** An economic characterization of the tourism sector in Paipa is carried out [`here`](https://drive.google.com/file/d/1NLBcfktk75xCYte_aVh2PMIhG93dRbMX/view). 
@@ -178,7 +187,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**   R, Python, google analytics.  
 
-### Institucional trust for the tourism value in Tunja
+### Institutionelles Vertrauen für den Tourismuswert in Tunja
 **Code:**    [`lig_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio).
 
 **Description:**  The impact of the governance of the relations of the tourism value chain in Tunja and the use of social networks are evaluated [`here`](https://drive.google.com/file/d/1cFycBgkx6THfDz2QZ4V7qvJ9wWGnzg9T/view).
@@ -187,7 +196,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:** R, Python.
 
-### Determinants of the intermediation rate in colombian banks
+### Bestimmungsfaktoren des Intermediationssatzes in kolumbianischen Banken
 **Code:** [`rosso`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso). 
 
 **Description:** Financial research by professor [`Jhon Rosso`](https://www.researchgate.net/profile/John-Rosso)  and its subsequent publication.
@@ -196,15 +205,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**  R, STATA.
 
-### Economic analysis of liquor production in the NLB
-**Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
-**Description:**  Analyze the current state of the economy of the liquor sector in the national and international market and estimate the production of the Nueva Licorera de boyacá for the period 2023-2027.
-
-**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
-
-**Technology:**   R, SQL, python.
-
-### Opportunity cost of payments for environmental services
+### Opportunitätskosten für Umweltservices
 **Code:**    [`costo_oportunidad`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Costo_oportunidad).  
 
 **Description:** Opportunity cost for service payments in the cultivation of panela cane [`here`](https://drive.google.com/file/d/1LlloNpkYS6ABJWQ9PRcnsnyZtALlFK6N/view)
@@ -213,7 +214,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**  R, Python
 
-### Property tax in Tunja 
+### Grundsteuer in Tunja 
 **Code:** [`pemp`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp). 
 
 **Description:**  Geospatial analysis of property tax in  [`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)([`Optional`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)).
@@ -231,7 +232,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**  R  
 
-### Intercultural practices in educational inclusion in Tunja
+### Interkulturelle Praktiken in der Bildungseinbeziehung in Tunja
 **Code:**    [`inclusion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/inclusion)
 
 **Description:** Statistical analysis of educational inclusion in Tunja schools [`here`](https://drive.google.com/file/d/1cYL5iz9aZ-WYjxM8bDUKaXojRCYGS2Oo/view).
@@ -240,7 +241,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**   R, STATA, SQL, Python, Latex.
 
-### Statistics history in Boyaca
+### Statistikgeschichte in Boyacá
 **Code:**    [`bicentenario`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/bicentenario)
 
 **Description:** Exposure report in history ([`Figures`](https://drive.google.com/file/d/1JFvo2a9QfH72ObcqQmH1GSLSQhosWEnT/view)). 
@@ -249,7 +250,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:** R, Latex.  
 
-### Market estimate: fixing rates for the Suarez Theater in Tunja
+### Marktschätzung: Festlegung von Preisen für das Theater Suárez in Tunja
 **Code:**    [`estimacion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/Estimacion)
 
 **Description:** Suarez theater market analysis [`here`](https://drive.google.com/file/d/1QpzXnL8D_3fGfxslKmt75GsyXZpPD5fb/view)
@@ -258,7 +259,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**   Stata
 
-### Master in Education Advisory 
+### Beratung für den Master in Bildung
 **Code:**    [`tesis_pedagogia`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tesis%20pedagogia)
 
 **Description:** Advice on pedagogical research thesis [`here`](https://drive.google.com/file/d/14Fu3m1CSiMDeO3I0SkSAbiFMrr5AVh0r/view) 
