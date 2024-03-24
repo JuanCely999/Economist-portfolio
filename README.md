@@ -63,7 +63,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:**  [`Tesis`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
 
-### Price Dynamics in the Departments of Colombia: Estimation of the Neo-Keynesian Phillips Curve
+### Preisentwicklung in den Departements von Kolumbien: Schätzung der neoklassischen Phillipskurve
 **Code:**  [`Tesis`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
 
 **Description:**  This [`project`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) is carried out at the Pedagogical and Technological University of Colombia  and its subsequent [`article`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
@@ -75,7 +75,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:**  Price formation presents differential behaviors between the geographical regions of the country. The departments in the center of the country are less likely to have their companies keep prices unchanged, highlighting the role of expected inflation and marginal costs. On the contrary, the departments of the coastal zones show a greater degree of rigidity in prices, since the companies take more time to modify them. The results are oriented to the conduct of monetary policy in Colombia.
 
 
-### Global trends and public policy elements
+### Weltweite Trends und Elemente der öffentlichen Politik
 **Code:** [`tenden_gober`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tenden_gober).
 
 **Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view) of this [`book`](https://books.google.es/books?hl=es&lr=&id=2tpDEAAAQBAJ&oi=fnd&pg=PT7&ots=jYyLG_utmi&sig=OeZ5CMawDe1yJFEGnS_-seOh_Q0#v=onepage&q&f=false). A bibliometric analysis of the publications in databases such as Scopus and Web of Science is carried out. Neural networks are created in cooperation by country, university and author. In addition, web scrapping is carried out on Twitter to analyze the interaction on tourism issues for the population of Colombia, South America, North America, South Asia, South Africa, Europe and Oceania. Sentiment analysis is carried out, opinion mining. Finally, the trends in Google in the national and international tourism market are analyzed.
@@ -86,7 +86,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** A large part of the publications on tourism address issues that currently lack sufficient research, such as the case of the impact that social networks and web pages have on the dissemination of information and acceptance by the general public. The comments and searches focused on tourism on the web, at the moment of reducing their intensity, governance appears more frequently -although due to non-conformity- as the absence of global factors that the world is currently going through.
 
-### Perception of the economy of Latin America and the Caribbean due to COVID-19: an analysis of sentiments on Twitter
+### Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID-19: Eine Analyse der Stimmungen auf Twitter
 **Code:** [`art_econ`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/art_econ).
 
 **Description:**  This project is carried out for the publication of this [`article`](https://www.researchgate.net/publication/370943773_Percepcion_de_la_economia_de_America_Latina_y_el_Caribe_por_COVID-19_un_analisis_de_sentimientos_en_Twitter). Factors associated with positive and negative aspects are explored in an analysis of society's sentiments about the perception of the economy in the midst of the health crisis. This is done from Twitter data (575.865 tweets) in the countries of Latin America and the Caribbean.
@@ -97,7 +97,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The search for public sensations experienced during the crisis brought with it an increase in comments on issues related to the economy, containing negative perceptions.
 
-### Input output analysis an application for the economy of Boyaca Colombia
+### Input Output-Analyse: Eine Anwendung für die Wirtschaft von Boyacá, Kolumbien
 **Code:** [`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
 
 **Description:**  This project is carried out for the publication of this [`article`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567). Based on the branches of economic activity, the base, independent, key and driving sectors are determined according to matrix calculations. Then the income, employment and product multipliers are evaluated by correlations and 3D visualizations. 
@@ -108,7 +108,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Low multipliers in most branches of the economy which demonstrates the low diversification of the economy and backwardness compared to other departments. There is little integration of the economy, this is denoted by the exaggerated number of independent sectors and the incipient key sectors.
 
-### Analyzing the Spatial Configuration of Agriculture The Colombian Case
+### Analyse der räumlichen Konfiguration der Landwirtschaft: Der kolumbianische Fall
 **Code:** [`chapter`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Chapter).
 
 **Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1hP-mO_OGtPyKMCzf9cJ68bp0jsGJg1Qz/view) of this [`book`](https://www.igi-global.com/chapter/analyzing-the-spatial-configuration-of-agriculture/317831). It applies a procedure related to the Geographic Information Systems and sets forth a descriptive approach for recognizing recent trends in the Colombian agriculture output. In order to convert the production analysis into a spatial perspective, a differentiated analysis must be mainly implemented to streamline the economic data and the spatial positioning. 
@@ -119,7 +119,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The spatial analysis of the agricultural output reveals a random distribution across the territory demonstrating the diversity of production and a scattered spatial pattern. The disparate diversity of the production appears inconsistent with the scarce diversification of the Colombian export supply.
 
-### Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte, Boyaca
+### Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien
 **Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
 **Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out. More visualizations are added [`here`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view)
@@ -133,7 +133,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
-### Primary care medical study Power Bi and R
+### Medizinische Studie zur Primärversorgung
 **Code:** [`Power Bi`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection) y [`cancer`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)  
 
 **Description:**  Analysis of indicators such as population characterization and primary care in the EPS Sanitas
@@ -142,7 +142,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**   R, Power Bi.
 
-### Publications newspaper El Diario
+### Veröffentlichungen der Zeitung El Diario
 **Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
 **Description:**  Three publications were made in the newspaper El diario analyzing the situation of the pandemic: [`Business panorama in Boyacá due to the covid-19 crisis`](https://periodicoeldiario.com/panorama-empresarial-en-boyaca-por-crisis-del-covid-19/),[`This is how the pandemic has hit the different productive sectors of Boyacá`](https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/), [`Pandemic and the agony of the vulnerable population in Boyacá`](https://periodicoeldiario.com/pandemia-y-la-agonia-de-la-poblacion-vulnerable-en-boyaca/).
@@ -151,7 +151,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:** R, Python.   
 
-### Analysis of COVID 19 in Colombia
+### Analyse von COVID-19 in Kolumbien
 **Code:** [`covid`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/covid). 
 
 **Description:**  Dynamic visualization of the [`covid in Colombia`](https://twitter.com/jcely04/status/1250860372699025408).
@@ -160,7 +160,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**  R.
 
-### Construction market study: Visota project
+### Marktstudie für den Bau: Visota-Projekt
 **Code:**  [`alo_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alo_studio).   
 
 **Description:**  Market study of the use of solid waste for its use in urban equipment ([`Visota project`](https://drive.google.com/file/d/1Kca3JLkn0V2DPyIPyEQH1mIEdfsyviZQ/view)).
