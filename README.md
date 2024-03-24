@@ -1,6 +1,6 @@
-# Juan Pablo Cely  - Data Analysis Portfolio 
+# Juan Pablo Cely  - Datenanalyst-Portfolio 
 
-## About
+## Über mich
 
 Hallo. Ich bin Juan Pablo Cely 👋
 
@@ -14,7 +14,7 @@ Lassen Sie uns vernetzen und erkunden, wie ich zu Ihren Dateninitiativen beitrag
 - 📝 Ich schreibe regelmäßig Artikel auf 
 [Google scholar](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC) oder [Research Gate](https://www.researchgate.net/profile/Juan-Cely-Acero).
 
-- 📫 How to reach me **juanpablocely1@gmail.com**.
+- 📫 Wie Sie mich unter **juanpablocely1@gmail.com** erreichen können
 
 - 📄Erfahren Sie mehr über meine Erfahrungen[in meinem Lebenslauf](https://drive.google.com/file/d/1JyfZtVRDrQ8_HfdQlKRyZgJq5Mt-3fzU/view)
 
@@ -23,7 +23,7 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 <br>
   
 
-## Table of contents
+## Inhaltsverzeichnis
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien.](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
@@ -52,11 +52,11 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 	+ [Beratung für den Master in Bildung](#Master-in-education-advisory)
 	
 	
-- [Certificates](#certificates)
-- [Contacts](#contacts)
+- [Zertifikate](#certificates)
+- [Kontakte](#contacts)
 
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+## Portfolioprojekte
+In diesem Abschnitt werde ich Datenanalyseprojekte auflisten und kurz die verwendete Technologie beschreiben, um Probleme zu lösen.
 
 ### Wirtschaftsanalyse für das Spirituosenunternehmen von Boyaca Kolumbien
 **Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
@@ -269,7 +269,7 @@ In this section I will provide links to my github repositories containing code a
 **Technology:**   R, Stata.
 
 
-
+%dfhdcdcdv
 
 ## Contacts
 - LinkedIn: [@juancely04](https://www.linkedin.com/in/juan-cely04/)
