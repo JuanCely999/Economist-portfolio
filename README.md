@@ -60,7 +60,7 @@ In diesem Abschnitt werde ich Datenanalyseprojekte auflisten und kurz die verwen
 
 ### Wirtschaftsanalyse für das Spirituosenunternehmen von Boyaca Kolumbien
 
-#Este proyecto se realizo para la empresa licorera de Boyacá a travez de 
+# Este proyecto se realizo para la empresa licorera de Boyacá a travez de 
 
 **Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
 
