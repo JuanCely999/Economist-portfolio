@@ -30,7 +30,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Portfolio Projects](#portfolio-projects)
         + [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien.](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
 	+ [Price Dynamics in the Departments of Colombia Estimation of the Neo Keynesian Phillips Curve](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
-+ [Price Dynamics in the Departments of Colombia Estimation of the Neo Keynesian Phillips Curve](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
+	+ [Price Dynamics in the Departments of Colombia Estimation of the Neo Keynesian Phillips Curve](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
 	+ [Global trends and public policy elements](#global-trends-and-public-policy-elements)
 	+ [Perception of the economy of Latin America and the Caribbean due to COVID 19 an analysis of sentiments on Twitter](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter)
 	+ [Input output analysis an application for the economy of Boyaca Colombia](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
