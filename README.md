@@ -2,15 +2,17 @@
 
 ## About
 
-Hi. I am Juan Pablo Cely 👋
+Hallo. Ich bin Juan Pablo Cely 👋
 
-Economist passionate about data engineering, data analysis and business intelligent analyst dedicated to transforming data into actionable insights. With a background in data analysis, project management, and database administration, I have successfully led projects at organizations including CREPIB, UPTC, OPREC, Bemore SAS in Colombia and DRK-Kreisverband Kassel-Wolfhagen in Germany. My skills encompass Python, SQL, big data tools, and cloud platforms like Microsoft Azure and AWS. I excel in translating complex analyses into clear and effective solutions. I am always eager to take on new challenges in the realm of data and data-driven decision-making. 
+Ich bin ein Wirtschaftswissenschaftler, der sich leidenschaftlich für Datenengineering, Datenanalyse und Business Intelligence-Analyse einsetzt und sich darauf konzentriert, Daten in handlungsorientierte Erkenntnisse umzuwandeln. Mit Erfahrungen in Datenanalyse, Projektmanagement und Datenbankadministration habe ich erfolgreich Projekte in Organisationen wie CREPIB, UPTC, OPREC, Bemore SAS in Kolumbien und DRK-Kreisverband Kassel-Wolfhagen in Deutschland geleitet. Meine Fähigkeiten umfassen Python, R, SQL, Tableau, Power Bi, Big-Data-Tools und Cloud-Plattformen wie Microsoft Azure und AWS. Ich zeichne mich durch die Fähigkeit aus, komplexe Analysen in klare und effektive Lösungen zu übersetzen. Ich bin stets bereit, mich neuen Herausforderungen im Bereich Daten und datengesteuerter Entscheidungsfindung zu stellen.
 
-Let's connect and explore how I can contribute to your data initiatives.
+Lassen Sie uns vernetzen und erkunden, wie ich zu Ihren Dateninitiativen beitragen kann.
 
-- 👨‍💻 All of my projects are available on [this page.](https://juancely999.github.io/web/)
 
-- 📝 I regularly write articles on [Google scholar](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC) or [Research Gate](https://www.researchgate.net/profile/Juan-Cely-Acero).
+- 👨‍💻Alle meine Projekte sind auf [dieser Seite](https://juancely999.github.io/web/) verfügbar.
+
+- 📝 Ich schreibe regelmäßig Artikel auf 
+[Google scholar](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC) oder [Research Gate](https://www.researchgate.net/profile/Juan-Cely-Acero).
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
