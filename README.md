@@ -59,7 +59,14 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 In diesem Abschnitt werde ich Datenanalyseprojekte auflisten und kurz die verwendete Technologie beschreiben, um Probleme zu lösen.
 
 ### Wirtschaftsanalyse für das Spirituosenunternehmen von Boyaca Kolumbien
+
+#Este proyecto se realizo para la empresa licorera de Boyacá a travez de 
+
 **Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
+
+
+
+
 **Description:**  Analyze the current state of the economy of the liquor sector in the national and international market and estimate the production of the Nueva Licorera de boyacá for the period 2023-2027.
 
 [`informe`](https://drive.google.com/file/d/18LNEjL95YolaI55Mp0tNXLanL_KItndc/view)
