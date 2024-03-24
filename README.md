@@ -16,7 +16,7 @@ Lassen Sie uns vernetzen und erkunden, wie ich zu Ihren Dateninitiativen beitrag
 
 - 📫 Wie Sie mich unter **juanpablocely1@gmail.com** erreichen können
 
-- 📄Erfahren Sie mehr über meine Erfahrungen[in meinem Lebenslauf](https://drive.google.com/file/d/1JyfZtVRDrQ8_HfdQlKRyZgJq5Mt-3fzU/view)
+- 📄Erfahren Sie mehr über meine Erfahrungen [in meinem Lebenslauf](https://drive.google.com/file/d/1JyfZtVRDrQ8_HfdQlKRyZgJq5Mt-3fzU/view)
 
 <br>
 Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekte zu teilen und meinen Fortschritt in datenanalytischen und datenwissenschaftlichen Themen zu verfolgen.
@@ -24,7 +24,7 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
   
 
 ## Inhaltsverzeichnis
-- [About](#about)
+- [Über mich](#Úber-mich)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien.](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
 	+ [Preisentwicklung in den Departements von Kolumbien: Schätzung der neoklassischen Phillipskurve.](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
