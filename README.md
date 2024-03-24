@@ -19,7 +19,7 @@ Lassen Sie uns vernetzen und erkunden, wie ich zu Ihren Dateninitiativen beitrag
 - 📄Erfahren Sie mehr über meine Erfahrungen[in meinem Lebenslauf](https://drive.google.com/file/d/1JyfZtVRDrQ8_HfdQlKRyZgJq5Mt-3fzU/view)
 
 <br>
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
+Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekte zu teilen und meinen Fortschritt in datenanalytischen und datenwissenschaftlichen Themen zu verfolgen.
 <br>
   
 
@@ -27,30 +27,29 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien.](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
-	+ [Price Dynamics in the Departments of Colombia Estimation of the Neo Keynesian Phillips Curve](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
-	+ [Global trends and public policy elements](#global-trends-and-public-policy-elements)
-	+ [Perception of the economy of Latin America and the Caribbean due to COVID 19 an analysis of sentiments on Twitter](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter)
-	+ [Input output analysis an application for the economy of Boyaca Colombia](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
-	+ [Analyzing the Spatial Configuration of Agriculture The Colombian Case](#analyzing-the-spatial-configuration-of-agriculture-the-colombian-case)
-	+ [Perceptions of Rural Community Based Tourism in the Province of Alto Ricaurte Boyaca](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
+	+ [Preisentwicklung in den Departements von Kolumbien: Schätzung der neoklassischen Phillipskurve.](#price-dynamics-in-the-departments-of-colombia-estimation-of-the-neo-keynesian-phillips-curve)
+	+ [Weltweite Trends und Elemente der öffentlichen Politik](#global-trends-and-public-policy-elements)
+	+ [Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID-19: Eine Analyse der Stimmungen auf Twitter](#perception-of-the-economy-of-latin-america-and-the-caribbean-due-to-covid-19-an-analysis-of-sentiments-on-twitter)
+	+ [Input-Output-Analyse: Eine Anwendung für die Wirtschaft von Boyacá, Kolumbien](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
+	+ [Analyse der räumlichen Konfiguration der Landwirtschaft: Der kolumbianische Fall](#analyzing-the-spatial-configuration-of-agriculture-the-colombian-case)
+	+ [Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
         
 - [Study Projects](#study-projects)
-	+ [Primary care medical study Power Bi and R](#primary-care-medical-study-power-bi-and-r)
-	+ [Publications newspaper El Diario](#publications-newspaper-el-diario)
-	+ [Analysis of COVID 19 in Colombia](#analysis-of-covid-19-in-colombia)
-	+ [Construction market study: Visota project](#construction-market-study-Visota-project)
-	+ [Diagnosis of competitiveness and innovation in Boyaca CREPIB](#diagnosis-of-competitiveness-and-innovation-in-boyaca-crepib)
-	+ [Economic diagnosis of tourism in Paipa](#economic-diagnosis-of-tourism-in-paipa)
-	+ [Institucional trust for the tourism value in Tunja](#institucional-trust-for-the-tourism-value-in-tunja)
-	+ [Determinants of the intermediation rate in colombian banks](#determinants-of-the-intermediation-rate-in-colombian-banks)
-	+ [Economic analysis of liquor production in the Nueva Licorera Boyaca](#economic-analysis-of-liquor-production-in-the-nlb)
-	+ [Opportunity cost of payments for environmental services](#opportunity-cost-of-payments-for-environmental-services)
-	+ [Property tax in Tunja](#property-tax-in-Tunja)
+	+ [Medizinische Studie zur Primärversorgung](#primary-care-medical-study-power-bi-and-r)
+	+ [Veröffentlichungen der Zeitung El Diario](#publications-newspaper-el-diario)
+	+ [Analyse von COVID-19 in Kolumbien](#analysis-of-covid-19-in-colombia)
+	+ [Marktstudie für den Bau: Visota Projekt](#construction-market-study-Visota-project)
+	+ [Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá CREPIB](#diagnosis-of-competitiveness-and-innovation-in-boyaca-crepib)
+	+ [Wirtschaftsanalyse des Tourismus in Paipa](#economic-diagnosis-of-tourism-in-paipa)
+	+ [Institutionelles Vertrauen für den Tourismuswert in Tunja](#institucional-trust-for-the-tourism-value-in-tunja)
+	+ [Bestimmungsfaktoren des Intermediationssatzes in kolumbianischen Banken](#determinants-of-the-intermediation-rate-in-colombian-banks)
+	+ [Opportunitätskosten für Umweltservices](#opportunity-cost-of-payments-for-environmental-services)
+	+ [Grundsteuer in Tunja](#property-tax-in-Tunja)
 	+ [R matrix workshop](#r-matrix-workshop)
-	+ [Intercultural practices in educational inclusion in Tunja](#intercultural-practices-in-educational-inclusion-in-Tunja)
-	+ [Statistics history in Boyaca](#statistics-history-in-boyaca)
-	+ [Market estimate: fixing rates for the Suarez Theater in Tunja](#market-estimate-fixing-rates-for-the-suarez-theater-in-Tunja)
-	+ [Master in Education Advisory](#Master-in-education-advisory)
+	+ [Interkulturelle Praktiken in der Bildungseinbeziehung in Tunja](#intercultural-practices-in-educational-inclusion-in-Tunja)
+	+ [Statistikgeschichte in Boyacá](#statistics-history-in-boyaca)
+	+ [Marktschätzung: Festlegung von Preisen für das Theater Suárez in Tunja](#market-estimate-fixing-rates-for-the-suarez-theater-in-Tunja)
+	+ [Beratung für den Master in Bildung](#Master-in-education-advisory)
 	
 	
 - [Certificates](#certificates)
