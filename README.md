@@ -60,12 +60,6 @@ In diesem Abschnitt werde ich Datenanalyseprojekte auflisten und kurz die verwen
 
 ### Wirtschaftsanalyse für das Spirituosenunternehmen von Boyaca Kolumbien
 
-# Este proyecto se realizo para la empresa licorera de Boyacá a travez de 
-* Este es otro comentario en Markdown usando asteriscos
-
-__Este es un comentario en Markdown usando guiones bajos__
-
-* Este es otro comentario en Markdown usando asteriscos
 
 <!-- Este es un comentario en Markdown usando HTML -->
 **Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
