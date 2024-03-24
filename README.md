@@ -16,11 +16,7 @@ Lassen Sie uns vernetzen und erkunden, wie ich zu Ihren Dateninitiativen beitrag
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
-- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1JyfZtVRDrQ8_HfdQlKRyZgJq5Mt-3fzU/view)
-
-
-My blog on [this page](https://juancely999.github.io/web/)   
-
+- 📄Erfahren Sie mehr über meine Erfahrungen[in meinem Lebenslauf](https://drive.google.com/file/d/1JyfZtVRDrQ8_HfdQlKRyZgJq5Mt-3fzU/view)
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
