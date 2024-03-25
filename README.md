@@ -77,25 +77,29 @@ Estos modelos se realizaron en R.
 
 Las visualizaciones las realice en herramientas como excel, tableu y power Bi. Yo realice un informe y luego yo realice presentaciones a los tomadores de descisiones de la licorera.
 clic en el codigo. clic en el informe. Klicken Sie auf den Code. Klicken Sie auf den Bericht.-->
-**Code:** ([`Klicken Sie auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR))     
-
-
-
-
-**Description:**  Analyze the current state of the economy of the liquor sector in the national and international market and estimate the production of the Nueva Licorera de boyacá for the period 2023-2027.
-
-[`Klicken Sie auf den Bericht`](https://drive.google.com/file/d/18LNEjL95YolaI55Mp0tNXLanL_KItndc/view)
-
-**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
-
-**Technology:**   R, SQL, python.
-
-**Code:**  [`Tesis`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
 
 ### Preisentwicklung in den Departements von Kolumbien: Schätzung der neoklassischen Phillipskurve
+
+Dieses Projekt wurde an der Universität durchgeführt, um die Dynamik der Inflation in den Departements von Kolumbien zu analysieren. Dieses Projekt ist wichtig, da es wertvolle Informationen für die Geldpolitik und verschiedene wirtschaftliche Bereiche des Landes liefert. Das Hauptziel besteht darin, das Phillips-Kurvenmodell zu erstellen, das aufgrund seiner Verwendung in führenden Weltbanken hervorgehoben wird. Zur Erstellung dieses Modells musste eine große Menge an Daten extrahiert werden. Ich sammelte Informationen über die Arbeitslöhne der gesamten kolumbianischen Bevölkerung zwischen 2009 und 2019 monatlich, die dann mit nationalen Statistiken (BIP, Inflation) mit dem SQL-Tool gefiltert, organisiert und verglichen wurden. Nach dem Erhalt der standardisierten Informationen wurden Statistiken durchgeführt, um das Verhalten der anfänglichen Variablen mittels des R-Programms zu analysieren ([`Klicken Sie auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis)) . Das Modell zeigt eine geringe Wahrscheinlichkeit für Preisänderungen in einigen Departements, insbesondere in der Mitte des Landes. Es wird auch die Bedeutung der Inflation mit den Erwartungen der kolumbianischen Unternehmen beim Festlegen der Preise anerkannt ([`Klicken Sie auf den Bericht`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view)).
+
+Tableau und R wurden verwendet, um die geospatialen Ergebnisse der Koeffizienten zu analysieren, und verschiedene Visualisierungen wurden erstellt. Schließlich enthält der Projektbericht im Anhang eine bibliometrische Analyse, die alle früheren Forschungsarbeiten vergleicht, um dem Projekt einen größeren Fokus zu verleihen. Dafür wurde R verwendet.
+Dieses Projekt erlangte so viel Bedeutung, dass es in einer der wichtigsten Zeitschriften Kolumbiens veröffentlicht wurde ([`Klicken Sie auf den Artikel`](http://www.scielo.org.co/scielo.php?pid=S0120-25962022000200011&script=sci_arttext))
+
+
+<!-- Este proyecto se realizo en la universidad para analizar la dinámica de la inflación en los departamentos de Colombia. Este proyecto es importante puesto que  aporta información valiosa en politica monetaria y diferentes areas economicas del pais. El objetivo principal consiste en construir el modelo de la curva de Phillips, se destaca por su uso en principales bancos mundiales. Para su construcción se debio extraer una gran cantidad de datos. Yo recogi la información de los ingresos laborales de toda la poblacion colombiana entre 2009 y 2019 mensualmente, luego fue filtrada, organizada y comparada son estadisticas nacionales (Pib, inflación) con la herramienta SQL. Luego de obtener la información estandarizada, se realiza estadisticas para analizar el comportamiento de las variables iniciales por medio de R programm. Asi mismo se realiza el modelo, donde se evidencia baja probabilidad de cambios en los precios en algunos departamentos, especialmente en el centro del pais. Además de reconoce la importancia de la inflación con expectativas de las empresas colombianas al momento de imponer los precios. 
+
+Se utilizo tableu y R program para analizar de manera geoespacial los resultados de los coeficientes y se realizaron diferentes visualizaciones. Finalmente, en el informe del proyecto se realiza en el apendice un analisis bibliometrico que compara todas las investigaciones anteriores para darle un mayor enfoque al proyecto. Para esto se uso R programm.
+
+Este proyecto tomo tanta relevancia que fue publicada en una de las revistas mas importantes de Colombia (Click) -->
+
+
+Este artículo explica la dinámica de la inflación en los departamentos de Colombia entre 2009 y 2019, estimando la curva de Phillips neokeynesiana (NKPC, por sus siglas en inglés). Se encuentran diferencias en la explicación de la inflación y se evidencia que la NKPC permite describir la baja probabilidad de cambios en los precios en algunos departamentos, especialmente de la zona central del país. Los coeficientes estimados apoyan la importancia que tiene la inflación esperada en la formación de precios, y con menor importancia el papel de la inflación rezagada (persistencia de la inflación). Esta persistencia de la inflación es un reflejo de las rigideces estructurales que reducen la capacidad de las empresas de un departamento para modificar sus precios en relación con otros. Estas diferencias en los procesos que determinan la dinámica de la inflación entre departamentos tienen implicaciones importantes para la conducción de política monetaria en Colombia.
+
+
+
 **Code:**  [`Tesis`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
 
-**Description:**  This [`project`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) is carried out at the Pedagogical and Technological University of Colombia  and its subsequent [`article`](http://www.scielo.org.co/pdf/le/n97/0120-2596-le-97-11.pdf).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
+**Description:**  This [`project`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) is carried out at the Pedagogical and Technological University of Colombia  and its subsequent [`article`](http://www.scielo.org.co/scielo.php?pid=S0120-25962022000200011&script=sci_arttext).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
 
 **Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, bibliometric analysis, data anomalies detection, checking splitting system, calculating conversion rate, writing report.
 
