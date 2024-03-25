@@ -90,22 +90,17 @@ Dieses Projekt erlangte so viel Bedeutung, dass es in einer der wichtigsten Zeit
 
 Se utilizo tableu y R program para analizar de manera geoespacial los resultados de los coeficientes y se realizaron diferentes visualizaciones. Finalmente, en el informe del proyecto se realiza en el apendice un analisis bibliometrico que compara todas las investigaciones anteriores para darle un mayor enfoque al proyecto. Para esto se uso R programm.
 
-Este proyecto tomo tanta relevancia que fue publicada en una de las revistas mas importantes de Colombia (Click) -->
-
-
-Este artículo explica la dinámica de la inflación en los departamentos de Colombia entre 2009 y 2019, estimando la curva de Phillips neokeynesiana (NKPC, por sus siglas en inglés). Se encuentran diferencias en la explicación de la inflación y se evidencia que la NKPC permite describir la baja probabilidad de cambios en los precios en algunos departamentos, especialmente de la zona central del país. Los coeficientes estimados apoyan la importancia que tiene la inflación esperada en la formación de precios, y con menor importancia el papel de la inflación rezagada (persistencia de la inflación). Esta persistencia de la inflación es un reflejo de las rigideces estructurales que reducen la capacidad de las empresas de un departamento para modificar sus precios en relación con otros. Estas diferencias en los procesos que determinan la dinámica de la inflación entre departamentos tienen implicaciones importantes para la conducción de política monetaria en Colombia.
-
-
+Este proyecto tomo tanta relevancia que fue publicada en una de las revistas mas importantes de Colombia (Click) 
 
 **Code:**  [`Tesis`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis).
 
 **Description:**  This [`project`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view) is carried out at the Pedagogical and Technological University of Colombia  and its subsequent [`article`](http://www.scielo.org.co/scielo.php?pid=S0120-25962022000200011&script=sci_arttext).The dynamics of inflation in the departmental economies of Colombia in the last decade are described from the construction of inflation and labor income of workers in each department according to data from the GEIH deposited in DANE in monthly data between 2010- 2019. This information is found in microdata, allowing data cleaning. Then, geospatial statistical and econometric analysis is carried out, in time series and panel data. In addition, the annexes are attached with a bibliometric study of the historical behavior of the theory treated in neural networks.
 
-**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, bibliometric analysis, data anomalies detection, checking splitting system, calculating conversion rate, writing report.
+**Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, bibliometric analysis, data anomalies detection, checking splitting system, calculating conversion rate, writing report. 
 
 **Technology:**   R, STATA, SQL, Python, Latex.
 
-**Results:**  Price formation presents differential behaviors between the geographical regions of the country. The departments in the center of the country are less likely to have their companies keep prices unchanged, highlighting the role of expected inflation and marginal costs. On the contrary, the departments of the coastal zones show a greater degree of rigidity in prices, since the companies take more time to modify them. The results are oriented to the conduct of monetary policy in Colombia.
+**Results:**  Price formation presents differential behaviors between the geographical regions of the country. The departments in the center of the country are less likely to have their companies keep prices unchanged, highlighting the role of expected inflation and marginal costs. On the contrary, the departments of the coastal zones show a greater degree of rigidity in prices, since the companies take more time to modify them. The results are oriented to the conduct of monetary policy in Colombia. -->
 
 
 ### Weltweite Trends und Elemente der öffentlichen Politik
@@ -294,8 +289,10 @@ In this section I will provide links to my github repositories containing code a
 
 **Technology:**   R, Stata.
 
+## Zertifikate
+[`Zeugnis`](https://drive.google.com/file/d/1nx3QLRo2XCnasQU-iQzWaGc4G9TVfvkI/view)
+[`Bachelor`](https://drive.google.com/file/d/1jRZq7KnWFW0xogkprXqLOEMorfj-zt3o/view)
 
-%dfhdcdcdv
 
 ## Contacts
 - LinkedIn: [@juancely04](https://www.linkedin.com/in/juan-cely04/)
