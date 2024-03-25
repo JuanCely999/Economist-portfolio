@@ -59,7 +59,17 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 In diesem Abschnitt werde ich Datenanalyseprojekte auflisten und kurz die verwendete Technologie beschreiben, um Probleme zu lösen.
 
 ### Wirtschaftsanalyse für das Spirituosenunternehmen von Boyaca Kolumbien
+Dieses Projekt wurde für das Spirituosenunternehmen in Boyacá über die Universität durchgeführt. Das Ziel des Projekts bestand darin, die zukünftige Produktion des Spirituosenherstellers zu definieren, da er aufgrund der Pandemie Probleme hatte. Das Spirituosenunternehmen hatte finanzielle Probleme, da es während und nach der Pandemie seine Produktionsziele auf den Vertrieb umstellte, was sich auf seine Produktionskapazität und -effektivität auswirkte.
 
+Zu Beginn extrahierte ich Informationen aus internationalen und lokalen Datenbankplattformen, um das Verkaufsverhalten des Alkohols zu analysieren. Außerdem wurden die lokalen Verkäufe in allen Spirituosengeschäften in Boyacá analysiert, um sie mit diesem Unternehmen zu vergleichen. Diese Datenauswertung wurde mit R und Python durchgeführt. ([`Klicken Sie auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR))
+
+Um das Konsumentenverhalten von Alkoholkonsumenten in der gesamten Region zu analysieren, wurde SQL als technologisches Werkzeug zur Verwaltung des Datensatzes verwendet.
+
+Mit diesen Daten erstellte ich ein makroökonomisches und ein mikroökonomisches Modell. Das erste bestand darin, eine Verkaufsprognose von 2023 bis 2027 basierend auf den in den letzten 15 Jahren monatlich verzeichneten Verkäufen zu erstellen. Es wurden mehr als 5 Modelle verglichen, um das realistischste an die weltweiten und nationalen Kontexte anzupassen. Es wurde ein massiver Anstieg der Verkäufe nach der Pandemie festgestellt, aber danach stabilisierte sich der Konsum und ging sogar aufgrund des gemäßigten Verhaltens der Alkoholkonsumenten zurück.
+
+Das nächste Modell, das ich erstellte, war ein mikroökonomisches Modell, um das Verhalten der Verbraucher des Spirituosenunternehmens zu analysieren. Nach der Analyse dieses Datensatzes wurden wichtige Ergebnisse gefunden, darunter die Feststellung, dass das Wachstum der Bevölkerung mit niedrigerem Einkommen den Alkoholkonsum antreibt und dass die kurzfristige Inflation zusammen mit der positiven Verbrauchererwartung dazu beitragen würde, höhere Umsätze im Spirituosenunternehmen zu erzielen. Diese Modelle wurden in R durchgeführt.
+
+Die Visualisierungen wurden mit Tools wie Excel, Tableau und Power BI durchgeführt. Ich erstellte einen Bericht und präsentierte ihn dann den Entscheidungsträgern des Spirituosenunternehmens.
 
 <!-- Este proyecto se realizo para la empresa de licores en Boyaca atravez de la universidad. El objetivo del proyecto consistio en definir la producción a futuro de la empresa licorera puesto que estaba enfrentando problemas debido a la pandemia. La empresa de licores se enfrentaba problemas financieros, puesto que durante la pandemia y despues cambiaron sus objetivos de producción hacia el distribuidor y esto afectaba su capacidad y efectividad en la producción
 Yo inicialmente realice extraccion de informacion de bases de datos de plataformas internacionales y locales para analizar la información del comportamiento de las ventas del licor. Además se analizo las ventas locales en todas las licoreras de Boyaca para compararla con esta empresa. Toda esta extracción de datos se realizo con R y Python.
@@ -71,8 +81,9 @@ Teniendo esta cantidad de datos, yo realice un modelo macroeconomico y otro mode
 Por otra parte el siguiente modelo que realice fue un modelo microeconomico para analizar el comportamiento de los consumidores de la licorera. Luego de analizar este conjunto de datos se encontraron resultados importantes, uno de ellos fue que el crecimiento de la población con más bajos ingresos estan impulsando el consumo de licores y que la inflación a corto plazo junto con la expectativa positiva del consumidor ayudaria a tener mayores ventas en la licorera.
 Estos modelos se realizaron en R.
 
-Las visualizaciones se realizaron en herramientas como excel, tableu y power Bi. Yo realice un informe y luego yo realice presentaciones a los tomadores de descisiones de la licorera  -->
-**Code:** [`licoreraR`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR).     
+Las visualizaciones las realice en herramientas como excel, tableu y power Bi. Yo realice un informe y luego yo realice presentaciones a los tomadores de descisiones de la licorera.
+clic en el codigo. clic en el informe. Klicken Sie auf den Code. Klicken Sie auf den Bericht.-->
+**Code:** ([`Klicken Sie auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR))     
 
 
 
