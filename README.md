@@ -1,4 +1,4 @@
-# Juan Pablo Cely  - Datenanalyst-Portfolio 
+# Juan Pablo Cely  - Datenanalyst-Portfolio (DE)
 
 ## Über mich
 
@@ -106,7 +106,7 @@ Este proyecto tomo tanta relevancia que fue publicada en una de las revistas mas
 ### Weltweite Trends und Elemente der öffentlichen Politik
 
 
-Dieses Projekt besteht darin, den Tourismus und die Governance in Tunja zu analysieren, im Rahmen eines nationalen akademischen Forschungsprogramms. [`Klicken Sie auf den Bericht`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view) Zunächst wurde eine bibliometrische Analyse durchgeführt, bei der ich alle Informationen zur wissenschaftlichen Produktion von 2009 bis 2019 aus Datenbanken wie Web of Science extrahiert habe. Diese Extraktion wurde mit dem R-Programm durchgeführt, und anschließend half Vantage Point dabei, Verbindungen zwischen Universitäten, Publikationen und Autoren durch Visualisierungen zu finden. Dann wurde Data Mining mit Python durchgeführt, um Wortwolken und Dendrogramme zur Visualisierung von Verhaltensmustern und Trends zu erstellen.
+Dieses Projekt besteht darin, den Tourismus und die Governance in Tunja zu analysieren, im Rahmen eines nationalen akademischen Forschungsprogramms ([`Klicken Sie auf den Bericht`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view)). Zunächst wurde eine bibliometrische Analyse durchgeführt, bei der ich alle Informationen zur wissenschaftlichen Produktion von 2009 bis 2019 aus Datenbanken wie Web of Science extrahiert habe. Diese Extraktion wurde mit dem R-Programm durchgeführt, und anschließend half Vantage Point dabei, Verbindungen zwischen Universitäten, Publikationen und Autoren durch Visualisierungen zu finden. Dann wurde Data Mining mit Python durchgeführt, um Wortwolken und Dendrogramme zur Visualisierung von Verhaltensmustern und Trends zu erstellen.
 
 Darüber hinaus wurde mit Python Web-Scraping auf Twitter durchgeführt, um Tweets der weltweiten Bevölkerung über Tourismus zu analysieren. Anschließend wurde eine textuelle Sentimentanalyse durchgeführt, um die Emotionen der Tweets zu erkennen. Mit Tableau und Python wurden Visualisierungen von Heatmaps, Histogrammen, Wortwolken und mehr erstellt. Schließlich wurden mit Rprogramm Statistiken aus Google basierend auf Tourismussuchen extrahiert ([`Klicken Sie auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tenden_gober)).
 
@@ -140,6 +140,9 @@ Se realiza un análisis bibliométrico de las publicaciones en bases de datos co
 **Resultados:** Gran parte de las publicaciones sobre turismo abordan temas que actualmente carecen de suficiente investigación, como es el caso del impacto que tienen las redes sociales y las páginas web en la difusión de la información y la aceptación por parte del público en general. Los comentarios y búsquedas centradas en el turismo en la red, al momento de reducir su intensidad, la gobernanza aparece con mayor frecuencia -aunque por inconformismo- como la ausencia de los factores globales que atraviesa el mundo actualmente. -->
 
 ### Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID-19: Eine Analyse der Stimmungen auf Twitter
+
+
+
 **Code:** [`art_econ`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/art_econ).
 
 **Description:**  This project is carried out for the publication of this [`article`](https://www.researchgate.net/publication/370943773_Percepcion_de_la_economia_de_America_Latina_y_el_Caribe_por_COVID-19_un_analisis_de_sentimientos_en_Twitter). Factors associated with positive and negative aspects are explored in an analysis of society's sentiments about the perception of the economy in the midst of the health crisis. This is done from Twitter data (575.865 tweets) in the countries of Latin America and the Caribbean.
