@@ -104,7 +104,23 @@ Este proyecto tomo tanta relevancia que fue publicada en una de las revistas mas
 
 
 ### Weltweite Trends und Elemente der öffentlichen Politik
-**Code:** [`tenden_gober`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tenden_gober).
+
+
+Dieses Projekt besteht darin, den Tourismus und die Governance in Tunja zu analysieren, im Rahmen eines nationalen akademischen Forschungsprogramms. [`Klicken Sie auf den Bericht`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view) Zunächst wurde eine bibliometrische Analyse durchgeführt, bei der ich alle Informationen zur wissenschaftlichen Produktion von 2009 bis 2019 aus Datenbanken wie Web of Science extrahiert habe. Diese Extraktion wurde mit dem R-Programm durchgeführt, und anschließend half Vantage Point dabei, Verbindungen zwischen Universitäten, Publikationen und Autoren durch Visualisierungen zu finden. Dann wurde Data Mining mit Python durchgeführt, um Wortwolken und Dendrogramme zur Visualisierung von Verhaltensmustern und Trends zu erstellen.
+
+Darüber hinaus wurde mit Python Web-Scraping auf Twitter durchgeführt, um Tweets der weltweiten Bevölkerung über Tourismus zu analysieren. Anschließend wurde eine textuelle Sentimentanalyse durchgeführt, um die Emotionen der Tweets zu erkennen. Mit Tableau und Python wurden Visualisierungen von Heatmaps, Histogrammen, Wortwolken und mehr erstellt. Schließlich wurden mit Rprogramm Statistiken aus Google basierend auf Tourismussuchen extrahiert ([`Klicken Sie auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tenden_gober)).
+
+Die Ergebnisse des Projekts dienen als wertvolle Grundlage für die Entwicklung von öffentlichen Politiken in Kolumbien, da große Datenmengen von Social-Media-Nutzern verwendet werden, die ihre Zustimmung oder Ablehnung zum Tourismus zum Ausdruck bringen. Dieses Projekt war von großer Bedeutung und wurde in einem Kapitel dieses Buches aufgenommen ([`Klicken Sie auf den Artikel`](https://books.google.es/books?hl=es&lr=&id=2tpDEAAAQBAJ&oi=fnd&pg=PT7&ots=jYyLG_utmi&sig=OeZ5CMawDe1yJFEGnS_-seOh_Q0#v=onepage&q&f=false)).
+
+
+<!-- **Code:** [`tenden_gober`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tenden_gober).
+
+ Este proyecto consiste en analizar el turismo y la gobernanza de Tunja, esto vinculado a un programa nacional de investigación academica. Inicialmente se hizo un analisis de bibliometria donde yo extraje toda la información de la producción cientifica en portales como Web of Science del 2009 al 2019. Esta extracción se realizo con R program y luego Vantage Point ayudo encontrar asociaciones entre universidades, publicaciones y autores por medio de visualizaciones. Luego se hizo  data mining con Python para elaborar nubes de palabras, dendrogramas para visualizar patrones de comportamiento y tendencias.
+
+Por otra parte, con Python se hace Web Scrapping en Twitter, analizando tweet de la población mundial sobre turismo. Luego se realizo un analisis textual de sentimientos donde se detectaba las emociones de los Tweets. Con Tableu y Python se realizaron visualizaciones de mapas de calor, histogramas, nubes de palabras y demás. Por ultimo se extrajo estadisticas de Google segun las busquedas en turismo con Rprogram.
+
+Los resultados del proyecto permite ser un buen insumo para la elaboración de politicas publicas en Colombia puesto que se usan datos masivos de usuarios de redes sociales que expresan su conformismo e inconformismo sobre el turismo. Este proyecto fue de gran importancia que fue incluido en un capitulo de este libro.
+
 
 **Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view) of this [`book`](https://books.google.es/books?hl=es&lr=&id=2tpDEAAAQBAJ&oi=fnd&pg=PT7&ots=jYyLG_utmi&sig=OeZ5CMawDe1yJFEGnS_-seOh_Q0#v=onepage&q&f=false). A bibliometric analysis of the publications in databases such as Scopus and Web of Science is carried out. Neural networks are created in cooperation by country, university and author. In addition, web scrapping is carried out on Twitter to analyze the interaction on tourism issues for the population of Colombia, South America, North America, South Asia, South Africa, Europe and Oceania. Sentiment analysis is carried out, opinion mining. Finally, the trends in Google in the national and international tourism market are analyzed.
 
@@ -113,6 +129,15 @@ Este proyecto tomo tanta relevancia que fue publicada en una de las revistas mas
 **Technology:**   R, Python, Vantage point, google analytics.
 
 **Results:** A large part of the publications on tourism address issues that currently lack sufficient research, such as the case of the impact that social networks and web pages have on the dissemination of information and acceptance by the general public. The comments and searches focused on tourism on the web, at the moment of reducing their intensity, governance appears more frequently -although due to non-conformity- as the absence of global factors that the world is currently going through.
+
+
+Se realiza un análisis bibliométrico de las publicaciones en bases de datos como Scopus y Web of Science. Las redes neuronales se crean en cooperación entre el país, la universidad y el autor. Además, se realiza web scrapping en Twitter para analizar la interacción en temas turísticos para la población de Colombia, Sudamérica, Norteamérica, Sur de Asia, Sudáfrica, Europa y Oceanía. Se realiza análisis de sentimiento, minería de opiniones. Finalmente se analizan las tendencias de Google en el mercado turístico nacional e internacional.
+
+**Habilidades:** Análisis de sentimientos, minería de opiniones, minería de datos, análisis bibliométrico, limpieza de datos, transformaciones de datos, análisis de datos, estadística descriptiva, visualización de datos, redacción de informes.
+
+**Tecnología:** R, Python, Vantage Point, Google Analytics.
+
+**Resultados:** Gran parte de las publicaciones sobre turismo abordan temas que actualmente carecen de suficiente investigación, como es el caso del impacto que tienen las redes sociales y las páginas web en la difusión de la información y la aceptación por parte del público en general. Los comentarios y búsquedas centradas en el turismo en la red, al momento de reducir su intensidad, la gobernanza aparece con mayor frecuencia -aunque por inconformismo- como la ausencia de los factores globales que atraviesa el mundo actualmente. -->
 
 ### Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID-19: Eine Analyse der Stimmungen auf Twitter
 **Code:** [`art_econ`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/art_econ).
