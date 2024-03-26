@@ -1,5 +1,5 @@
 # Juan Pablo Cely  - Datenanalyst-Portfolio (DE)
-
+<!-- This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.-->
 ## Über mich
 
 Hallo. Ich bin Juan Pablo Cely 👋
