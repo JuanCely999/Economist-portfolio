@@ -189,12 +189,11 @@ Dieses Projekt untersucht die Landwirtschaft in Kolumbien aus räumlicher Perspe
 **Results:** The spatial analysis of the agricultural output reveals a random distribution across the territory demonstrating the diversity of production and a scattered spatial pattern. The disparate diversity of the production appears inconsistent with the scarce diversification of the Colombian export supply. -->
 
 ### Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien
+Dieses Projekt wird durchgeführt, um den Tourismus in der Region zu analysieren. Informationen werden aus den nationalen Statistiken extrahiert und durch Interviews mit Touristen und Entscheidungsträgern gesammelt. Mit R wird Data Mining für die textuelle Analyse durchgeführt, und anschließend werden [`Visualisierungen`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view) erstellt ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte)). Als Ergebnis wurde festgestellt, dass eine positive Wahrnehmung zu Vereinbarungen führt, die der gesamten Gesellschaft in der Region zugutekommen, Konsensbildungen, bei denen Einzelpersonen und Behörden die Art der touristischen Entwicklung definieren können, was wichtige Aspekte für die Entscheidungsfindung der Regierung sind ([`Klicke auf den Artikel`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf)).
 
-
-
-
-
-<!--Este proyecto se realiza para la publicación de este [`artículo`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Se realizaron entrevistas a funcionarios de instituciones públicas, actores del turismo rural, representantes de juntas de acción comunitaria y asociaciones de productores para obtener un mejor acercamiento a las posibilidades de desarrollo del turismo rural comunitario. Se realiza un análisis textual. Se agregan más visualizaciones [`aquí`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view)
+<!--
+Este proyecto se realiza para analizar el turismo de la región. Se extrae información de las estadisticas nacionales, se recoge información a partir de entrevistas  a turistas y tomadores de desiciones. Se realiza data mining con R  para el analisis textual. Posteriormente se realiza visualizaciones de la información. Como resultado se encontro que la percepción positiva  permite o conduce a acuerdos que favorecen a toda la sociedad que habita la región, consensos en los que individuos y autoridades pueden definir el tipo de desarrollo turístico, aspectos importantes para la toma de desiciones del gobierno.
+Este proyecto se realiza para la publicación de este [`artículo`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Se realizaron entrevistas a funcionarios de instituciones públicas, actores del turismo rural, representantes de juntas de acción comunitaria y asociaciones de productores para obtener un mejor acercamiento a las posibilidades de desarrollo del turismo rural comunitario. Se realiza un análisis textual. Se agregan más visualizaciones [`aquí`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view)
 
 **Habilidades:** estadística descriptiva, visualización de datos, minería de opiniones, minería de datos, redacción de informes.
 
