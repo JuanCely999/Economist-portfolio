@@ -155,7 +155,17 @@ Dieses Projekt besteht darin, die Wahrnehmung der Wirtschaft über das soziale N
 **Results:** The search for public sensations experienced during the crisis brought with it an increase in comments on issues related to the economy, containing negative perceptions.-->
 
 ### Input Output-Analyse: Eine Anwendung für die Wirtschaft von Boyacá, Kolumbien
-<!--**Code:** [`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
+Dieses Projekt zielt darauf ab, die wirtschaftliche Entwicklung der Region zu analysieren. Es werden Daten aus den 32 Wirtschaftszweigen der nationalen Statistiken extrahiert und deren Zusammenarbeit durch das SQL-Programm untersucht. Anschließend wird mit R und Excel ein matrizenbasiertes Modell erstellt, um die Sektoren zu identifizieren, die das Wachstum der Region anhand von Produktion, Beschäftigung und Einkommen vorantreiben oder bremsen ([`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo)). Die Ergebnisse zeigen, dass es wenig Integration zwischen den Sektoren gibt, da viele unabhängig voneinander arbeiten. Sektoren wie Elektrizität, Öl und Telekommunikation sind wichtig, um das Wachstum anderer zu fördern. Diese Erkenntnisse sind für die Regierung bei der Formulierung öffentlicher Politik entscheidend ([`Klicken Sie auf den Artikel`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567)). 
+
+
+
+
+
+<!--    Este proyecto consiste en analizar el desarrollo economico de la región. Se extrae  cifras de las 32 actividades economicas de las estadisticas nacionales y como entre ellas trabajan conjuntas desde el programa SQL. Luego se realiza un modelo matricial con el programa R y Excel para identificar los sectores de la economia que impulsan y detienen la productividad de la region segun el producto, empleo e ingreso. Entre los resultados de este proyecto se muestra que existe poca integración entre sectores ya que muchos de ellos trabajan independientes. Sectores como la electricidad, el petroleo y las telecomunicaciones son importantes para ayudar a crecer a los demas. Estos hallazgos son fundamentales para el gobierno al momento de realizar politicas publicas
+
+
+
+**Code:** [`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
 
 **Description:**  This project is carried out for the publication of this [`article`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567). Based on the branches of economic activity, the base, independent, key and driving sectors are determined according to matrix calculations. Then the income, employment and product multipliers are evaluated by correlations and 3D visualizations. 
 
