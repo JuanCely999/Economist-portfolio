@@ -79,7 +79,6 @@ Las visualizaciones las realice en herramientas como excel, tableu y power Bi. Y
 clic en el codigo. clic en el informe. Klicke auf den Code. Klicke auf den Bericht.-->
 
 ### Preisentwicklung in den Departements von Kolumbien: Schätzung der neoklassischen Phillipskurve
-
 Dieses Projekt wurde an der Universität durchgeführt, um die Dynamik der Inflation in den Departements von Kolumbien zu analysieren. Dieses Projekt ist wichtig, da es wertvolle Informationen für die Geldpolitik und verschiedene wirtschaftliche Bereiche des Landes liefert. Das Hauptziel besteht darin, das Phillips-Kurvenmodell zu erstellen, das aufgrund seiner Verwendung in führenden Weltbanken hervorgehoben wird. Zur Erstellung dieses Modells musste eine große Menge an Daten extrahiert werden. Ich sammelte Informationen über die Arbeitslöhne der gesamten kolumbianischen Bevölkerung zwischen 2009 und 2019 monatlich, die dann mit nationalen Statistiken (BIP, Inflation) mit dem SQL-Tool gefiltert, organisiert und verglichen wurden. Nach dem Erhalt der standardisierten Informationen wurden Statistiken durchgeführt, um das Verhalten der anfänglichen Variablen mittels des R-Programms zu analysieren ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis)) . Das Modell zeigt eine geringe Wahrscheinlichkeit für Preisänderungen in einigen Departements, insbesondere in der Mitte des Landes. Es wird auch die Bedeutung der Inflation mit den Erwartungen der kolumbianischen Unternehmen beim Festlegen der Preise anerkannt ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view)).
 
 Tableau und R wurden verwendet, um die geospatialen Ergebnisse der Koeffizienten zu analysieren, und verschiedene Visualisierungen wurden erstellt. Schließlich enthält der Projektbericht im Anhang eine bibliometrische Analyse, die alle früheren Forschungsarbeiten vergleicht, um dem Projekt einen größeren Fokus zu verleihen. Dafür wurde R verwendet.
@@ -104,8 +103,6 @@ Este proyecto tomo tanta relevancia que fue publicada en una de las revistas mas
 
 <!--   -->
 ### Weltweite Trends und Elemente der öffentlichen Politik
-
-
 Dieses Projekt besteht darin, den Tourismus und die Governance in Tunja zu analysieren, im Rahmen eines nationalen akademischen Forschungsprogramms ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1XXDxFMGyrlxw8F0Gkpce5xlz-Sns-pri/view)). Zunächst wurde eine bibliometrische Analyse durchgeführt, bei der ich alle Informationen zur wissenschaftlichen Produktion von 2009 bis 2019 aus Datenbanken wie Web of Science extrahiert habe. Diese Extraktion wurde mit dem R-Programm durchgeführt, und anschließend half Vantage Point dabei, Verbindungen zwischen Universitäten, Publikationen und Autoren durch Visualisierungen zu finden. Dann wurde Data Mining mit Python durchgeführt, um Wortwolken und Dendrogramme zur Visualisierung von Verhaltensmustern und Trends zu erstellen.
 
 Darüber hinaus wurde mit Python Web-Scraping auf Twitter durchgeführt, um Tweets der weltweiten Bevölkerung über Tourismus zu analysieren. Anschließend wurde eine textuelle Sentimentanalyse durchgeführt, um die Emotionen der Tweets zu erkennen. Mit Tableau und Python wurden Visualisierungen von Heatmaps, Histogrammen, Wortwolken und mehr erstellt. Schließlich wurden mit Rprogramm Statistiken aus Google basierend auf Tourismussuchen extrahiert ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tenden_gober)).
@@ -176,8 +173,7 @@ Dieses Projekt zielt darauf ab, die wirtschaftliche Entwicklung der Region zu an
 **Results:** Low multipliers in most branches of the economy which demonstrates the low diversification of the economy and backwardness compared to other departments. There is little integration of the economy, this is denoted by the exaggerated number of independent sectors and the incipient key sectors.    -->
 
 ### Analyse der räumlichen Konfiguration der Landwirtschaft: Der kolumbianische Fall
-
-Dieses Projekt untersucht die Landwirtschaft in Kolumbien aus räumlicher Perspektive. Es werden Informationen aus den nationalen Statistiken zur Produktion und räumlichen Positionierung extrahiert. Mit dem Programm R wird eine deskriptive statistische Analyse durchgeführt, um aktuelle Trends in der kolumbianischen Agrarproduktion zu erkennen([`chapter`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Chapter)). Die räumliche Analyse der landwirtschaftlichen Produktion und die statistische Analyse zeigen eine zufällige Verteilung über das gesamte Gebiet, was die Vielfalt der Produktion und ein zerstreutes räumliches Muster zeigt. Die unterschiedliche Vielfalt der Produktion scheint inkonsistent mit der geringen Diversifizierung des kolumbianischen Exportangebots zu sein. Diese Ergebnisse sind für die öffentlichen Politikbereiche im Bereich der Landwirtschaft relevant. (Klicke auf das [`Kapitel`](https://drive.google.com/file/d/1hP-mO_OGtPyKMCzf9cJ68bp0jsGJg1Qz/view) dieses [`Buches`](https://www.igi-global.com/chapter/analyzing-the-spatial-configuration-of-agriculture/317831))
+Dieses Projekt untersucht die Landwirtschaft in Kolumbien aus räumlicher Perspektive. Es werden Informationen aus den nationalen Statistiken zur Produktion und räumlichen Positionierung extrahiert. Mit dem Programm R wird eine deskriptive statistische Analyse durchgeführt, um aktuelle Trends in der kolumbianischen Agrarproduktion zu erkennen([`chapter`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Chapter)). Die räumliche Analyse der landwirtschaftlichen Produktion und die statistische Analyse zeigen eine zufällige Verteilung über das gesamte Gebiet, was die Vielfalt der Produktion und ein zerstreutes räumliches Muster zeigt. Die unterschiedliche Vielfalt der Produktion scheint inkonsistent mit der geringen Diversifizierung des kolumbianischen Exportangebots zu sein. Diese Ergebnisse sind für die öffentlichen Politikbereiche im Bereich der Landwirtschaft relevant (Klicke auf das [`Kapitel`](https://drive.google.com/file/d/1hP-mO_OGtPyKMCzf9cJ68bp0jsGJg1Qz/view) dieses [`Buches`](https://www.igi-global.com/chapter/analyzing-the-spatial-configuration-of-agriculture/317831)).
 
 
 <!--Este proyecto analiza la agricultura en Colombia de una perspectiva espacial. Se extrae información de las estadisticas nacionales en producción y posicionamiento espacial. Se realiza un analisis estadistico descriptivo para reconocer las tendencias recientes en la producción agrícola colombiana con el programa R. El análisis espacial de la producción agrícola y el analisis estadistico revela una distribución aleatoria a lo largo del territorio que demuestra la diversidad de la producción y un patrón espacial disperso. La dispar diversidad de la producción parece inconsistente con la escasa diversificación de la oferta exportadora colombiana. Estos resultados son relevantes para la politicas publicas en el area de la agricultura.
@@ -193,7 +189,20 @@ Dieses Projekt untersucht die Landwirtschaft in Kolumbien aus räumlicher Perspe
 **Results:** The spatial analysis of the agricultural output reveals a random distribution across the territory demonstrating the diversity of production and a scattered spatial pattern. The disparate diversity of the production appears inconsistent with the scarce diversification of the Colombian export supply. -->
 
 ### Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien
-<!--**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
+
+
+
+
+
+<!--Este proyecto se realiza para la publicación de este [`artículo`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Se realizaron entrevistas a funcionarios de instituciones públicas, actores del turismo rural, representantes de juntas de acción comunitaria y asociaciones de productores para obtener un mejor acercamiento a las posibilidades de desarrollo del turismo rural comunitario. Se realiza un análisis textual. Se agregan más visualizaciones [`aquí`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view)
+
+**Habilidades:** estadística descriptiva, visualización de datos, minería de opiniones, minería de datos, redacción de informes.
+
+**Tecnología:** R, Python, Látex
+
+**Resultados:** Se identificó en las entrevistas a través de minería de opinión que la "confianza" permite o conduce a acuerdos que favorecen a toda la sociedad que habita la región, consensos en los que individuos y autoridades pueden definir el tipo de desarrollo turístico, cuál es el aspecto de esta investigación
+
+**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
 **Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out. More visualizations are added [`here`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view)
 
