@@ -102,7 +102,7 @@ Este proyecto tomo tanta relevancia que fue publicada en una de las revistas mas
 
 **Results:**  Price formation presents differential behaviors between the geographical regions of the country. The departments in the center of the country are less likely to have their companies keep prices unchanged, highlighting the role of expected inflation and marginal costs. On the contrary, the departments of the coastal zones show a greater degree of rigidity in prices, since the companies take more time to modify them. The results are oriented to the conduct of monetary policy in Colombia. -->
 
-
+<!--   -->
 ### Weltweite Trends und Elemente der öffentlichen Politik
 
 
@@ -141,7 +141,7 @@ Se realiza un análisis bibliométrico de las publicaciones en bases de datos co
 
 ### Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID-19: Eine Analyse der Stimmungen auf Twitter
 
-
+<!--   
 
 **Code:** [`art_econ`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/art_econ).
 
@@ -151,10 +151,10 @@ Se realiza un análisis bibliométrico de las publicaciones en bases de datos co
 
 **Technology:** R, Python.   
 
-**Results:** The search for public sensations experienced during the crisis brought with it an increase in comments on issues related to the economy, containing negative perceptions.
+**Results:** The search for public sensations experienced during the crisis brought with it an increase in comments on issues related to the economy, containing negative perceptions.-->
 
 ### Input Output-Analyse: Eine Anwendung für die Wirtschaft von Boyacá, Kolumbien
-**Code:** [`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
+<!--**Code:** [`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
 
 **Description:**  This project is carried out for the publication of this [`article`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567). Based on the branches of economic activity, the base, independent, key and driving sectors are determined according to matrix calculations. Then the income, employment and product multipliers are evaluated by correlations and 3D visualizations. 
 
@@ -162,9 +162,12 @@ Se realiza un análisis bibliométrico de las publicaciones en bases de datos co
 
 **Technology:** Advanced Excel, R. 
 
-**Results:** Low multipliers in most branches of the economy which demonstrates the low diversification of the economy and backwardness compared to other departments. There is little integration of the economy, this is denoted by the exaggerated number of independent sectors and the incipient key sectors.
+**Results:** Low multipliers in most branches of the economy which demonstrates the low diversification of the economy and backwardness compared to other departments. There is little integration of the economy, this is denoted by the exaggerated number of independent sectors and the incipient key sectors.    -->
 
 ### Analyse der räumlichen Konfiguration der Landwirtschaft: Der kolumbianische Fall
+
+<!-- 
+
 **Code:** [`chapter`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Chapter).
 
 **Description:**  This project is carried out as a [`chapter`](https://drive.google.com/file/d/1hP-mO_OGtPyKMCzf9cJ68bp0jsGJg1Qz/view) of this [`book`](https://www.igi-global.com/chapter/analyzing-the-spatial-configuration-of-agriculture/317831). It applies a procedure related to the Geographic Information Systems and sets forth a descriptive approach for recognizing recent trends in the Colombian agriculture output. In order to convert the production analysis into a spatial perspective, a differentiated analysis must be mainly implemented to streamline the economic data and the spatial positioning. 
@@ -173,10 +176,10 @@ Se realiza un análisis bibliométrico de las publicaciones en bases de datos co
 
 **Technology:**  R, Python. 
 
-**Results:** The spatial analysis of the agricultural output reveals a random distribution across the territory demonstrating the diversity of production and a scattered spatial pattern. The disparate diversity of the production appears inconsistent with the scarce diversification of the Colombian export supply.
+**Results:** The spatial analysis of the agricultural output reveals a random distribution across the territory demonstrating the diversity of production and a scattered spatial pattern. The disparate diversity of the production appears inconsistent with the scarce diversification of the Colombian export supply. -->
 
 ### Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien
-**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
+<!--**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
 **Description:**  This project is carried out for the publication of this [`article`](http://www.scielo.org.co/pdf/soec/n47/2389-9050-soec-47-e10111358.pdf). Interviews were conducted with officials from public institutions, rural tourism actors, representatives of community action boards and producer associations to obtain a better approach to the development possibilities of rural community tourism. A textual analysis is carried out. More visualizations are added [`here`](https://drive.google.com/file/d/1KP_npHcLY9z6JnmBTaC_tFLuVM3VOQFP/view)
 
@@ -184,138 +187,138 @@ Se realiza un análisis bibliométrico de las publicaciones en bases de datos co
 
 **Technology:**  R, Python, Latex
 
-**Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.
+**Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.-->
 
 
 ## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+<!--In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.-->
 ### Medizinische Studie zur Primärversorgung
-**Code:** [`Power Bi`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection) y [`cancer`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)  
+<!--**Code:** [`Power Bi`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection) y [`cancer`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)  
 
 **Description:**  Analysis of indicators such as population characterization and primary care in the EPS Sanitas
 
 **Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization.
 
-**Technology:**   R, Power Bi.
+**Technology:**   R, Power Bi.-->
 
 ### Veröffentlichungen der Zeitung El Diario
-**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
+<!--**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
 **Description:**  Three publications were made in the newspaper El diario analyzing the situation of the pandemic: [`Business panorama in Boyacá due to the covid-19 crisis`](https://periodicoeldiario.com/panorama-empresarial-en-boyaca-por-crisis-del-covid-19/),[`This is how the pandemic has hit the different productive sectors of Boyacá`](https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/), [`Pandemic and the agony of the vulnerable population in Boyacá`](https://periodicoeldiario.com/pandemia-y-la-agonia-de-la-poblacion-vulnerable-en-boyaca/).
 
 **Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
 
-**Technology:** R, Python.   
+**Technology:** R, Python.   -->
 
 ### Analyse von COVID-19 in Kolumbien
-**Code:** [`covid`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/covid). 
+<!--**Code:** [`covid`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/covid). 
 
 **Description:**  Dynamic visualization of the [`covid in Colombia`](https://twitter.com/jcely04/status/1250860372699025408).
 
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualization.
 
-**Technology:**  R.
+**Technology:**  R.-->
 
 ### Marktstudie für den Bau: Visota Projekt
-**Code:**  [`alo_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alo_studio).   
+<!--**Code:**  [`alo_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alo_studio).   
 
 **Description:**  Market study of the use of solid waste for its use in urban equipment ([`Visota project`](https://drive.google.com/file/d/1Kca3JLkn0V2DPyIPyEQH1mIEdfsyviZQ/view)).
 
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualization, writing report.
 
-**Technology:**  R, Python, Latex 
+**Technology:**  R, Python, Latex -->
 
 ### Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá - CREPIB
 
 ### Wirtschaftsanalyse des Tourismus in Paipa
-**Code:**  [`andrade_code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R).
+<!--**Code:**  [`andrade_code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R).
 
 **Description:** An economic characterization of the tourism sector in Paipa is carried out [`here`](https://drive.google.com/file/d/1NLBcfktk75xCYte_aVh2PMIhG93dRbMX/view). 
 
 **Skills:** Data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report. 
 
-**Technology:**   R, Python, google analytics.  
+**Technology:**   R, Python, google analytics.  -->
 
 ### Institutionelles Vertrauen für den Tourismuswert in Tunja
-**Code:**    [`lig_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio).
+<!--**Code:**    [`lig_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio).
 
 **Description:**  The impact of the governance of the relations of the tourism value chain in Tunja and the use of social networks are evaluated [`here`](https://drive.google.com/file/d/1cFycBgkx6THfDz2QZ4V7qvJ9wWGnzg9T/view).
 
 **Skills:** Sentyment analysis, opinion mining, data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
 
-**Technology:** R, Python.
+**Technology:** R, Python.-->
 
 ### Bestimmungsfaktoren des Intermediationssatzes in kolumbianischen Banken
-**Code:** [`rosso`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso). 
+<!--**Code:** [`rosso`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso). 
 
 **Description:** Financial research by professor [`Jhon Rosso`](https://www.researchgate.net/profile/John-Rosso)  and its subsequent publication.
 
 **Skills:** data cleaning, data analysis.
 
-**Technology:**  R, STATA.
+**Technology:**  R, STATA.-->
 
 ### Opportunitätskosten für Umweltservices
-**Code:**    [`costo_oportunidad`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Costo_oportunidad).  
+<!--**Code:**    [`costo_oportunidad`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Costo_oportunidad).  
 
 **Description:** Opportunity cost for service payments in the cultivation of panela cane [`here`](https://drive.google.com/file/d/1LlloNpkYS6ABJWQ9PRcnsnyZtALlFK6N/view)
 
 **Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report.
 
-**Technology:**  R, Python
+**Technology:**  R, Python-->
 
 ### Grundsteuer in Tunja 
-**Code:** [`pemp`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp). 
+<!--**Code:** [`pemp`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp). 
 
 **Description:**  Geospatial analysis of property tax in  [`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)([`Optional`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)).
 
 **Skills:** data cleaning, data analysis.
 
-**Technology:**  R, Qgis 
+**Technology:**  R, Qgis -->
 
 ### R matrix workshop
-**Code:** [`Tareas`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tareas)
+<!--**Code:** [`Tareas`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tareas)
 
 **Description:**  Matrix calculation exercise
 
 **Skills:** data analysis.
 
-**Technology:**  R  
+**Technology:**  R  -->
 
 ### Interkulturelle Praktiken in der Bildungseinbeziehung in Tunja
-**Code:**    [`inclusion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/inclusion)
+<!--**Code:**    [`inclusion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/inclusion)
 
 **Description:** Statistical analysis of educational inclusion in Tunja schools [`here`](https://drive.google.com/file/d/1cYL5iz9aZ-WYjxM8bDUKaXojRCYGS2Oo/view).
 
 **Skills:** data cleaning, data transforms, data analysis, descriptive statistics, data visualization, bibliometric analysis, data anomalies detection, checking splitting system, calculating conversion rate, writing report.
 
-**Technology:**   R, STATA, SQL, Python, Latex.
+**Technology:**   R, STATA, SQL, Python, Latex. -->
 
 ### Statistikgeschichte in Boyacá
-**Code:**    [`bicentenario`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/bicentenario)
+<!--**Code:**    [`bicentenario`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/bicentenario)
 
 **Description:** Exposure report in history ([`Figures`](https://drive.google.com/file/d/1JFvo2a9QfH72ObcqQmH1GSLSQhosWEnT/view)). 
 
 **Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** R, Latex.  
+**Technology:** R, Latex.  -->
 
 ### Marktschätzung: Festlegung von Preisen für das Theater Suárez in Tunja
-**Code:**    [`estimacion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/Estimacion)
+<!--**Code:**    [`estimacion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/Estimacion)
 
 **Description:** Suarez theater market analysis [`here`](https://drive.google.com/file/d/1QpzXnL8D_3fGfxslKmt75GsyXZpPD5fb/view)
 
 **Skills:** data cleaning, data analysis, data visualization, writing report.
 
-**Technology:**   Stata
+**Technology:**   Stata -->
 
 ### Beratung für den Master in Bildung
-**Code:**    [`tesis_pedagogia`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tesis%20pedagogia)
+<!--**Code:**    [`tesis_pedagogia`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tesis%20pedagogia)
 
 **Description:** Advice on pedagogical research thesis [`here`](https://drive.google.com/file/d/14Fu3m1CSiMDeO3I0SkSAbiFMrr5AVh0r/view) 
 
 **Skills:** data cleaning, data analysis, data visualization, writing report.
 
-**Technology:**   R, Stata.
+**Technology:**   R, Stata. -->
 
 ## Zertifikate
 [`Zeugnis`](https://drive.google.com/file/d/1nx3QLRo2XCnasQU-iQzWaGc4G9TVfvkI/view)
