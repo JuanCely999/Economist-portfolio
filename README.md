@@ -141,7 +141,7 @@ Se realiza un análisis bibliométrico de las publicaciones en bases de datos co
 
 ### Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID-19: Eine Analyse der Stimmungen auf Twitter
 
-<!--   
+<!--   Este proyecto consiste en analizar la percepcion de la economia desde la red social Twitter y las proyecciones economicas de America Latina y el Caribe durante Corona. Se realizo Web Scrapping en el software R para 19 paises, al extraer la informacion se realiza analisis textual y de sentimientos. Se encuentra que la población en Twitter en periodo de crisis incrementan sus reacciones negativas,  
 
 **Code:** [`art_econ`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/art_econ).
 
