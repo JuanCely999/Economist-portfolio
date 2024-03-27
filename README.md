@@ -28,23 +28,17 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 - [Portfolio Projects](#portfolio-projects)
 - [1. Phase](#1-phase)
         + [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
+- [2. Phase](#2-phase)
 	+ [Preisentwicklung in den Departements von Kolumbien Schätzung der neoklassischen Phillipskurve](#preisentwicklung-in-den-departements-von-kolumbien-schätzung-der-neoklassischen-phillipskurve)
         + [Weltweite Trends und Elemente der öffentlichen Politik](#weltweite-trends-und-elemente-der-öffentlichen-politik)
         + [Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID19 Eine Analyse der Stimmungen auf Twitter](#wahrnehmung-der-wirtschaft-lateinamerikas-und-der-karibik-aufgrund-von-covid-19-eine-analyse-der-stimmungen-auf-twitter)
         + [Analyse der räumlichen Konfiguration der Landwirtschaft Der kolumbianische Fall](#analyse-der-räumlichen-konfiguration-der-landwirtschaft-der-kolumbianische-fall)
         + [Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien](#wahrnehmungen-des-ländlichen-gemeinschaftstourismus-in-der-provinz-alto-ricaurte-boyacá-kolumbien)
         + [Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá CREPIB](#diagnose-der-wettbewerbsfähigkeit-und-innovation-in-boyacá-crepib)
-- [2. Phase](#2-phase)
-
 - [3. Phase](#3-phase)
-	
-	
+	+ [Nachhaltige Energie in verwundbaren Gebieten Kolumbiens](#nachhaltige-energie-in-verwundbaren-gebieten-kolumbiens)
+- [4. Phase](#4-phase)	
 	+ [Input Output Analyse: Eine Anwendung für die Wirtschaft von Boyacá Kolumbien](#Input-output-analyse-eine-anwendung-für-die-wirtschaft-von-boyacá-kolumbien)
-	
-        + [Nachhaltige Energie in verwundbaren Gebieten Kolumbiens](#nachhaltige-energie-in-verwundbaren-gebieten-kolumbiens)
-       
-        
-- [Study Projects](#study-projects)
 	+ [Medizinische Studie zur Primärversorgung](#medizinische-studie-zur-primärversorgung)
 	+ [Veröffentlichungen der Zeitung El Diario](#veröffentlichungen-der-zeitung-el-diario)
 	+ [Analyse von COVID-19 in Kolumbien](#analyse-von-covid-19-in-kolumbien)
