@@ -253,7 +253,10 @@ In diesem Projekt, an dem ich als Redakteur für die Zeitung El Diario teilnahm,
 **Technology:** R, Python.   -->
 
 ### Analyse von COVID-19 in Kolumbien
-<!--**Code:** [`covid`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/covid). 
+Dieses Projekt zielt darauf ab, dynamische Visualisierungen zu erstellen, die das Wachstum von COVID-19 in Kolumbien zeigen ([`Klicke auf das Dashboard`](https://twitter.com/jcely04/status/1250860372699025408)). Die Informationen wurden aus dem Gesundheitsministerium extrahiert. Anschließend wurden täglich Daten gesammelt, transformiert und gefiltert, um sie schließlich im Programm R zu visualisieren ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/covid)).
+
+<!--  Este proyecto pretende realizar visualizaciones dinamica que muestren el crecimiento del Corona en Colombia. Se extrajo la información del ministerio de salud, luego se crearon,trandformaron y filtraron un conjunto de datos diariamente para que finalmente se visualizara en el programa R.
+**Code:** [`covid`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/covid). 
 
 **Description:**  Dynamic visualization of the [`covid in Colombia`](https://twitter.com/jcely04/status/1250860372699025408).
 
@@ -262,7 +265,13 @@ In diesem Projekt, an dem ich als Redakteur für die Zeitung El Diario teilnahm,
 **Technology:**  R.-->
 
 ### Marktstudie für den Bau: Visota Projekt
-<!--**Code:**  [`alo_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alo_studio).   
+
+Dieses Projekt im Bereich nachhaltiger Bauweise beinhaltet die Analyse des Marktes für die Nutzung fester Abfälle zur Ausstattung städtischer Einrichtungen. Die Datensätze werden aus staatlichen und privaten Portalen extrahiert, um Angebot und Nachfrage zu analysieren. Anschließend werden die Daten erstellt, transformiert und visualisiert ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alo_studio)). Schließlich werden Marktprojektionen für Ziegel durchgeführt, um das Verhalten der Daten mit nachhaltigeren Baumaterialien zu vergleichen. Diese Projektarbeit ist in diesem Bericht dokumentiert ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1Kca3JLkn0V2DPyIPyEQH1mIEdfsyviZQ/view)).
+
+
+<!--Este proyecto de construcción sostenible consiste en analizar el mercado del aprovechamiento de residuos sólidos para su aprovechamiento en equipamiento urbano. El conjunto de datos son extraidos en portales gubernamentales y privados para el analisis de la oferta y la demanda y luego se continua con la creación, transformación y visualización de datos. Por ultimo se realiza proyacciones del mercado del ladrillo para comparar el comportamiento de los datos con material de construcción mas sostenible. Este proyecto se recoge en este informe.  
+
+**Code:**  [`alo_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alo_studio).   
 
 **Description:**  Market study of the use of solid waste for its use in urban equipment ([`Visota project`](https://drive.google.com/file/d/1Kca3JLkn0V2DPyIPyEQH1mIEdfsyviZQ/view)).
 
