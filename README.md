@@ -214,7 +214,7 @@ Este proyecto se realiza para la publicación de este [`artículo`](http://www.s
 **Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.-->
 
 ### Nachhaltige Energie in verwundbaren Gebieten Kolumbiens
-Dieses nachhaltige Energieprojekt mit dem Konsortium OPREC SAS bestand darin, die Energieabdeckung in den verwundbarsten Gebieten durch die Installation von Solarpanels zu gewährleisten. Dies wurde durch die Datensammlung der Bevölkerung, die Erstellung von Datenbanken und die Kreuzung von Informationen mithilfe von SQL und R erreicht. Außerdem habe ich Visualisierungen zur wirtschaftlichen Charakterisierung der Regionen erstellt.
+Dieses nachhaltige Energieprojekt mit dem Konsortium OPREC SAS bestand darin, die Energieabdeckung in den verwundbarsten Gebieten durch die Installation von Solarpanels zu gewährleisten. Dies wurde durch die Datensammlung der Bevölkerung, die Erstellung von Datenbanken und die Kreuzung von Informationen mithilfe von SQL und R erreicht  ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/oprec)). Außerdem habe ich Visualisierungen zur wirtschaftlichen Charakterisierung der Regionen erstellt ([`Klicke auf den Bericht `](https://drive.google.com/file/d/1nSY3kazkfqBnhGqQ2F52sK4lsTQaw-kC/view))
 
 <!--Este proyecto de energia sostenible con el Consorcio OPREC SAS consistio en cumplir con la cobertura energetica en los lugares mas vulnerables a partir de la instalacion de paneles solares. Esto se logro a travez de la recoleccion de datos de la población, creacion de bases de datos, cruce de información con el uso de SQL y R. Ademas realice visualizaciones en la caracterización economica de las regiones. 
 -->
@@ -338,7 +338,11 @@ In diesem Projekt habe ich teilgenommen, um die Bestimmungsfaktoren für den Int
 **Technology:**  R, STATA.-->
 
 ### Opportunitätskosten für Umweltservices
-<!--**Code:**    [`costo_oportunidad`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Costo_oportunidad).  
+Dieses Projekt zielt darauf ab, eine Opportunitätskostenabschätzung für Umweltservicezahlungen vorzunehmen. Die Bevölkerung in einem Feuchtgebiet hat Einkommen aus landwirtschaftlichen Aktivitäten wie Kartoffelanbau, Zuckerrohranbau und Viehzucht. Die öffentliche Politik beabsichtigt jedoch, der Bevölkerung über einen Zeitraum von 10 Jahren einen Preis vorzuschlagen, damit sie sich nicht mehr diesen Aktivitäten widmen, um das Umweltschutzgebiet zu schützen. Hierfür wurden Daten aus landwirtschaftlichen Datenbanken extrahiert, und die Opportunitätskosten wurden mithilfe von R berechnet ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Costo_oportunidad))([`Klicke auf den Bericht`](https://drive.google.com/file/d/1LlloNpkYS6ABJWQ9PRcnsnyZtALlFK6N/view)).
+
+
+<!--Este proyecto intenta estimar un costo de oportunidad por pagos de servicios ambientales. La población en una zona de un bosque humedal tiene ingresos, a travez de la agricultura como la papa y caña de azucar y la ganaderia, pero la politica publica pretende estimar un precio a 10 años a la población para que no se dediquen a estas actividades para la proteccion de la zona ambiental. Para esto se extrajo información de bases de datos de agricultura y se realizo el calculo de costo de oportunidad con la herramienta R.
+**Code:**    [`costo_oportunidad`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Costo_oportunidad).  
 
 **Description:** Opportunity cost for service payments in the cultivation of panela cane [`here`](https://drive.google.com/file/d/1LlloNpkYS6ABJWQ9PRcnsnyZtALlFK6N/view)
 
@@ -347,7 +351,14 @@ In diesem Projekt habe ich teilgenommen, um die Bestimmungsfaktoren für den Int
 **Technology:**  R, Python-->
 
 ### Grundsteuer in Tunja 
-<!--**Code:** [`pemp`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp). 
+
+Das Projekt zielt darauf ab, die Steuern der Bevölkerung in Tunja geografisch zu lokalisieren. Diese Informationen wurden vom Finanzministerium bezogen und mit dem  [`Programm R`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)verarbeitet, um eine umfassende Visualisierung zu erhalten ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp)). Optional wurde dies auch mit dem  ([`Programm ArcGIS`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)) durchgeführt.
+
+
+<!--Este proyecto busca localizar los impuestos de la poblacion de Tunja de manera geografica. Esta informacion se obtuvo del ministerio de tributacion y se proceso la información con el programa R para obtener una visualizacion panoramica. De manera opcional se hizo con el programa Argis.
+
+
+**Code:** [`pemp`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp). 
 
 **Description:**  Geospatial analysis of property tax in  [`Tunja`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)([`Optional`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)).
 
