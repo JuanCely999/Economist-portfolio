@@ -26,8 +26,13 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 ## Inhaltsverzeichnis
 - [Über mich](#Über-mich)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien.](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
-	+ [Preisentwicklung in den Departements von Kolumbien Schätzung der neoklassischen Phillipskurve.](#preisentwicklung-in-den-departements-von-kolumbien-schätzung-der-neoklassischen-phillipskurve)
+- [1.Phase](#1-phase)
+
+- [2.Phase](#2-phase)
+
+- [3.Phase](#3-phase)
+	+ [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
+	+ [Preisentwicklung in den Departements von Kolumbien Schätzung der neoklassischen Phillipskurve](#preisentwicklung-in-den-departements-von-kolumbien-schätzung-der-neoklassischen-phillipskurve)
 	+ [Weltweite Trends und Elemente der öffentlichen Politik](#weltweite-trends-und-elemente-der-öffentlichen-politik)
 	+ [Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID19 Eine Analyse der Stimmungen auf Twitter](#wahrnehmung-der-wirtschaft-lateinamerikas-und-der-karibik-aufgrund-von-covid-19-eine-analyse-der-stimmungen-auf-twitter)
 	+ [Input Output Analyse: Eine Anwendung für die Wirtschaft von Boyacá Kolumbien](#Input-output-analyse-eine-anwendung-für-die-wirtschaft-von-boyacá-kolumbien)
