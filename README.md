@@ -324,7 +324,7 @@ experiencial del turismo en Tunja se vería incrementado y el potencial del desa
 **Technology:** R, Python.-->
 
 ### Bestimmungsfaktoren des Intermediationssatzes in kolumbianischen Banken
-In diesem Projekt habe ich teilgenommen, um die Bestimmungsfaktoren für den Intermediationssatz in den Banken Kolumbiens zu analysieren. Zunächst habe ich die Finanzberichte der Handelsbanken Kolumbiens der letzten 20 Jahre monatlich extrahiert, wobei ich Tools wie SQL und R verwendet habe ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso)). Anschließend habe ich Berechnungen zwischen Datenbanken durchgeführt, um neue relevante Daten für das Projekt zu erstellen und deren anschließende Bedeutung für die finanzielle Situation des Landes zu ermitteln.
+In diesem Projekt habe ich teilgenommen, um die Bestimmungsfaktoren für den Intermediationssatz in den Banken Kolumbiens zu analysieren. Zunächst habe ich die Finanzberichte der Handelsbanken Kolumbiens der letzten 20 Jahre monatlich extrahiert, wobei ich Tools wie SQL und R verwendet habe ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso)). Anschließend habe ich Berechnungen zwischen Datenbanken durchgeführt, um neue relevante Daten für das Projekt zu erstellen und deren anschließende Bedeutung für die finanzielle Situation des Landes zu ermitteln ([`Klicke auf den Artikel`](https://drive.google.com/file/d/1cRvz5Lb8u1p6Gtch7SZR_bnR5--05hN3/view)).
 
 <!-- En este proyecto participe para analizar los DETERMINANTES DE LA TASA DE INTERMEDIACIÓN EN LOS BANCOS DE COLOMBIA. Inicialmente extraje los estados financieros de los bancos comerciales de Colombia de los ultimos 20 años mensualmente, utilizando herramientas como SQL Y R . Luego realice calculos entre bases de datos para crear nuevos datos relevantes para el proyecto y su posterior importancia en la situación financiera del pais
 
@@ -351,8 +351,7 @@ Dieses Projekt zielt darauf ab, eine Opportunitätskostenabschätzung für Umwel
 **Technology:**  R, Python-->
 
 ### Grundsteuer in Tunja 
-
-Das Projekt zielt darauf ab, die Steuern der Bevölkerung in Tunja geografisch zu lokalisieren. Diese Informationen wurden vom Finanzministerium bezogen und mit dem  [`Programm R`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view)verarbeitet, um eine umfassende Visualisierung zu erhalten ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp)). Optional wurde dies auch mit dem  ([`Programm ArcGIS`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)) durchgeführt.
+Das Projekt zielt darauf ab, die Steuern der Bevölkerung in Tunja geografisch zu lokalisieren. Diese Informationen wurden vom Finanzministerium bezogen und mit dem ([`Programm R`](https://drive.google.com/file/d/16-qe2RW_wNg0CGB_kxgnSJ2BFPzHmNp5/view))verarbeitet, um eine umfassende Visualisierung zu erhalten ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Pemp)). Optional wurde dies auch mit dem  ([`Programm ArcGIS`](https://drive.google.com/file/d/1pa2f2ML2lqbxmkTPnoCMVfJh_aDd9npF/view)) durchgeführt.
 
 
 <!--Este proyecto busca localizar los impuestos de la poblacion de Tunja de manera geografica. Esta informacion se obtuvo del ministerio de tributacion y se proceso la información con el programa R para obtener una visualizacion panoramica. De manera opcional se hizo con el programa Argis.
@@ -367,7 +366,10 @@ Das Projekt zielt darauf ab, die Steuern der Bevölkerung in Tunja geografisch z
 **Technology:**  R, Qgis -->
 
 ### R matrix workshop
-<!--**Code:** [`Tareas`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tareas)
+Dieses Projekt besteht darin, Matrixberechnungen mit dem Tool R durchzuführen ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tareas)).
+
+<!-- Este proyecto consiste en realizar ejercicios de calculo matricial con la herramienta R.
+**Code:** [`Tareas`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tareas)
 
 **Description:**  Matrix calculation exercise
 
@@ -376,7 +378,11 @@ Das Projekt zielt darauf ab, die Steuern der Bevölkerung in Tunja geografisch z
 **Technology:**  R  -->
 
 ### Interkulturelle Praktiken in der Bildungseinbeziehung in Tunja
-<!--**Code:**    [`inclusion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/inclusion)
+Dieses Projekt analysiert die Inklusion von Studierenden der Hochschulbildung und Lehrkräften. Es wurden Umfragen durchgeführt und die Informationen wurden dann mit SQL, R und Stata verarbeitet ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/inclusion)). Aspekte der Inklusion wie Kultur, Richtlinien und Praktiken wurden charakterisiert. Zu den Ergebnissen gehört, dass es wenig Kommunikation zwischen den Eltern der Studierenden und den Lehrkräften gibt, wenig Infrastruktur und eine geringe Nutzung der finanziellen Ressourcen ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1cYL5iz9aZ-WYjxM8bDUKaXojRCYGS2Oo/view)).
+
+<!--Este proyecto analiza la inclusion en estudiantes de educación superior y docentes. Se realizaron encuestas y luego se proceso la información a traves de SQL, R y Stata.
+Se caracterizaron aspectos en la inclusion como lo son la cultura, las politicas y practicas. Entre los resultados se encuentra que existe poca comunicacion entre el padre del estudiante y el profesor, escasa infraestructura y poco aprovechamientos de los recursos economicos.
+**Code:**    [`inclusion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/inclusion)
 
 **Description:** Statistical analysis of educational inclusion in Tunja schools [`here`](https://drive.google.com/file/d/1cYL5iz9aZ-WYjxM8bDUKaXojRCYGS2Oo/view).
 
