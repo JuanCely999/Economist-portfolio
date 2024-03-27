@@ -287,12 +287,13 @@ In diesem Projekt wird die Wettbewerbsfähigkeit und Innovation in der Region an
 
 
 ### Wirtschaftsanalyse des Tourismus in Paipa
+Dieses Projekt beinhaltet eine wirtschaftliche Analyse der wichtigsten touristischen Stadt in Boyacá. Die touristischen Datensätze werden aus Tourismusportalen mithilfe von R extrahiert, und Visualisierungen werden mit Excel und R erstellt ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R)). Die Hauptergebnisse des Projekts zeigen, dass Paipa die meistbesuchte Stadt ist, hauptsächlich von Touristen aus der Hauptstadt des Landes, die größtenteils zwischen 1 und 2 Übernachtungen in Attraktionen wie Kirchen und Monumenten verbringen([`Klicke auf den Bericht`](https://drive.google.com/file/d/1NLBcfktk75xCYte_aVh2PMIhG93dRbMX/view)).
 
 
-<!--
-**Code:**  [`andrade_code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R).
+<!-- Este proyecto consiste en realizar un analisis economico de la principal ciudad turistica de Boyaca. El conjunto de datos turisticos son extraidos de portales turisticos a partir de R y se realiza visualizaciones desde Excel y R. Los principales resultados del proyecto evidencia que Paipa es la ciudad más visitada principalmente por turistas de la capital del pais, en su mayoria entre 1 y 2 noches de hospedaje a lugares atractivos por la religion como iglesias monumentos.
+**Code:**  
 
-**Description:** An economic characterization of the tourism sector in Paipa is carried out [`here`](https://drive.google.com/file/d/1NLBcfktk75xCYte_aVh2PMIhG93dRbMX/view). 
+**Description:** An economic characterization of the tourism sector in Paipa is carried out  
 
 **Skills:** Data mining, bibliometric analysis, data cleaning, data transforms, data analysis, descriptive statistics, data visualization, writing report. 
 
