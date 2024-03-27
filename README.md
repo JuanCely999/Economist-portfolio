@@ -221,10 +221,6 @@ Dieses Gesundheitsprojekt bestand darin, verschiedene Dashboards aus dem von der
 <!-- Este proyecto de salud consistio en realizar diferentes Dashbords  a partir del conjunto de datos compartidos por la Krankekasse. Para la creación, transformación y filtraciónn de bases datos se utilizo el programa R  y para la creación de visualizaciones y dashbords se requirio el uso de Power Bi . Finalmente se presenta el informe final.
 [`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)
 
-
-
-
-
 **Code:** [`Power Bi`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection) y [`cancer`](https://drive.google.com/file/d/122bGlgqD3-JbLB6gHrge5rYu1__EQy1a/view)  
 
 **Description:**  Analysis of indicators such as population characterization and primary care in the EPS Sanitas
@@ -234,10 +230,18 @@ Dieses Gesundheitsprojekt bestand darin, verschiedene Dashboards aus dem von der
 **Technology:**   R, Power Bi.-->
 
 ### Veröffentlichungen der Zeitung El Diario
+In diesem Projekt, an dem ich als Redakteur für die Zeitung El Diario teilnahm, habe ich drei Berichte verfasst. Diese konzentrieren sich darauf, Zahlen während der Corona-Zeit zu analysieren:
 
+-[`Geschäftsausblick in Boyacá aufgrund der Covid-19-Krise`](https://periodicoeldiario.com/panorama-empresarial-en-boyaca-por-crisis-del-covid-19/)
+-[`So hat die Pandemie die verschiedenen Produktionssektoren in Boyacá getroffen`] (https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/)
+-[`Pandemie und das Leiden der verwundbaren Bevölkerung in Boyacá`](https://periodicoeldiario.com/pandemia-y-la-agonia-de-la-poblacion-vulnerable-en-boyaca/)
 
+<!-- En este proyecto que participe como escritor del periodico El Diario, redactando 3 informes. Estos se centran en analizar cifras en epoca de Corona. 
+-Business panorama in Boyacá due to the covid-19 crisis
+-This is how the pandemic has hit the different productive sectors of Boyacá
+-Pandemic and the agony of the vulnerable population in Boyacá
 
-<!-- Este proyecto se
+ Este proyecto se
 **Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
 **Description:**  Three publications were made in the newspaper El diario analyzing the situation of the pandemic: [`Business panorama in Boyacá due to the covid-19 crisis`](https://periodicoeldiario.com/panorama-empresarial-en-boyaca-por-crisis-del-covid-19/),[`This is how the pandemic has hit the different productive sectors of Boyacá`](https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/), [`Pandemic and the agony of the vulnerable population in Boyacá`](https://periodicoeldiario.com/pandemia-y-la-agonia-de-la-poblacion-vulnerable-en-boyaca/).
