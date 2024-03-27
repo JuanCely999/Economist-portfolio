@@ -33,7 +33,8 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 	+ [Input-Output-Analyse: Eine Anwendung für die Wirtschaft von Boyacá, Kolumbien](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
 	+ [Analyse der räumlichen Konfiguration der Landwirtschaft: Der kolumbianische Fall](#analyzing-the-spatial-configuration-of-agriculture-the-colombian-case)
 	+ [Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
-        + [Nachhaltige Energie in verwundbaren Gebieten Kolumbiens]()
+        + [Nachhaltige Energie in verwundbaren Gebieten Kolumbiens](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
+       
         
 - [Study Projects](#study-projects)
 	+ [Medizinische Studie zur Primärversorgung](#primary-care-medical-study-power-bi-and-r)
@@ -391,7 +392,10 @@ Se caracterizaron aspectos en la inclusion como lo son la cultura, las politicas
 **Technology:**   R, STATA, SQL, Python, Latex. -->
 
 ### Statistikgeschichte in Boyacá
-<!--**Code:**    [`bicentenario`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/bicentenario)
+In diesem Projekt wird die Anwesenheit aller Teilnehmer an der Bicentenario-Veranstaltung verfolgt. Die Daten werden gesammelt, um anschließend Heatmaps und verschiedene Visualisierungen in R und Excel zu erstellen ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/bicentenario)). Danach erfolgt die Präsentation der Ergebnisse zur Teilnahme der Teilnehmer ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1JFvo2a9QfH72ObcqQmH1GSLSQhosWEnT/view)).
+
+<!--En este proyecto se realiza un seguimiento de la asistencia de todos los participantes al evento Bicentenario. Se recoge los datos para luego realizar mapas de calor y diferentes visualizaciones en R y en Excel. Luego se realiza la presentación con los resultados de la participación de asistentes.
+**Code:**    [`bicentenario`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/bicentenario)
 
 **Description:** Exposure report in history ([`Figures`](https://drive.google.com/file/d/1JFvo2a9QfH72ObcqQmH1GSLSQhosWEnT/view)). 
 
@@ -400,7 +404,13 @@ Se caracterizaron aspectos en la inclusion como lo son la cultura, las politicas
 **Technology:** R, Latex.  -->
 
 ### Marktschätzung: Festlegung von Preisen für das Theater Suárez in Tunja
-<!--**Code:**    [`estimacion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/Estimacion)
+
+Dieses Projekt zielt darauf ab, die Teilnahme an Theatervorstellungen mithilfe von Datensätzen des Ministeriums für Kultur zu schätzen. Es werden Daten über Theater in Kolumbien und die Teilnahme der Bevölkerung gesammelt. Mit dem Programm Stata wird eine Angebots- und Nachfrageanalyse durchgeführt, um einen Preiskorridor für Theaterveranstaltungen zu ermitteln ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/Estimacion)). Schließlich wird ein Bericht erstellt und den Theaterbesitzern vorgelegt ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1QpzXnL8D_3fGfxslKmt75GsyXZpPD5fb/view)).
+
+<!-- Este proyecto consiste en realizar una estimación a las entradas al teatro a partir de conjuntos de datos del ministerio de cultura. Se obtiene datos de los teatros en Colombia y la participación de la poblacion en los teatros, con el programa stata se realiza un estudio de oferta y demanda para encontrar un rango de precios para los eventos en el teatro. Finalmente se realiza un informe y se presenta hacia los propietarios del teatro.
+
+
+**Code:**    [`estimacion`](https://github.com/JuanCely999/Proyectos/tree/main/Stata_code/Estimacion)
 
 **Description:** Suarez theater market analysis [`here`](https://drive.google.com/file/d/1QpzXnL8D_3fGfxslKmt75GsyXZpPD5fb/view)
 
@@ -409,6 +419,9 @@ Se caracterizaron aspectos en la inclusion como lo son la cultura, las politicas
 **Technology:**   Stata -->
 
 ### Beratung für den Master in Bildung
+Este proyecto consiste en el asesoramiento de la maestria en pedagogia para fortalecer la asignatura de lectura critica en los colegios de Tunja. Al obtener los datos de encuestas a los estudiantes, a parir de la herramienta de R y Excel se realiza analisis estadisticos y textuales ( [`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tesis%20pedagogia)) ([`Klicke auf den Bericht`](https://drive.google.com/file/d/14Fu3m1CSiMDeO3I0SkSAbiFMrr5AVh0r/view)).
+
+
 <!--**Code:**    [`tesis_pedagogia`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/tesis%20pedagogia)
 
 **Description:** Advice on pedagogical research thesis [`here`](https://drive.google.com/file/d/14Fu3m1CSiMDeO3I0SkSAbiFMrr5AVh0r/view) 
