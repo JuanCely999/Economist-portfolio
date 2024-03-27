@@ -279,13 +279,18 @@ Dieses Projekt im Bereich nachhaltiger Bauweise beinhaltet die Analyse des Markt
 
 **Technology:**  R, Python, Latex -->
 
-### Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá - CREPIB
+### Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá CREPIB
+
+In diesem Projekt wird die Wettbewerbsfähigkeit und Innovation in der Region anhand staatlicher Daten analysiert. Nach der Datenmanipulation mit R wird die Information in verschiedenen Kategorien visualisiert, um eine bessere Aufschlüsselung der Daten zu erhalten ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/miguel_competividad)). Diese Kategorien werden zwischen der Region und dem Rest des Landes anhand von Punktzahlen und Positionen des Indikators verglichen. Die Ergebnisse zeigen, dass die geringe Stärke der Institutionen keine Verbesserung in Bereichen wie Umwelt, Marktteilnahme, Geschäftsumfeld und Finanzsystem bewirkt. Andererseits ist der Bildungsindikator entscheidend für die Förderung der Wettbewerbsfähigkeit in der Region sowie für andere Indikatoren wie Raffinesse und Innovation, die eine geringe Leistung aufweisen ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1o5bMvjw14_aNL2k8eTDtljMHRWx1fvtl/view)).
+
+<!--En este proyecto se analiza la competividad  e innovacion en la region a partir de los datos estatales. Luego de la manipulacion de los datos con R se visualiza la información en diferentes categorias para tener mayor segregación de los datos. Estas categorias se comparan entre la región y el resto del pais segun puntuación y posicion del indicador. En los resultados se encuentra que la poca fortaleza de las instituicones  no hace que mejoren aspectos como el medio ambiente, la participación en el mercado, entorno para los negocios y sistema financiero. Por otra parte el indicador de educación es clave para impulsar la competividad en la region y a otros indicadores como la sofisticación e innovación que han tenido bajo desempeño. -->
 
 
-https://drive.google.com/file/d/1o5bMvjw14_aNL2k8eTDtljMHRWx1fvtl/view
-https://github.com/JuanCely999/Proyectos/tree/main/R_code/miguel_competividad
 ### Wirtschaftsanalyse des Tourismus in Paipa
-<!--**Code:**  [`andrade_code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R).
+
+
+<!--
+**Code:**  [`andrade_code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R).
 
 **Description:** An economic characterization of the tourism sector in Paipa is carried out [`here`](https://drive.google.com/file/d/1NLBcfktk75xCYte_aVh2PMIhG93dRbMX/view). 
 
