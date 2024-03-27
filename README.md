@@ -215,7 +215,17 @@ Este proyecto se realiza para la publicación de este [`artículo`](http://www.s
 ## Study Projects
 <!--In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.-->
 ### Medizinische Studie zur Primärversorgung
-<!--**Code:** [`Power Bi`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection) y [`cancer`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)  
+Dieses Gesundheitsprojekt bestand darin, verschiedene Dashboards aus dem von der Krankenkasse bereitgestellten Datensatz zu erstellen. Für die Erstellung, Transformation und Filterung von Datenbanken wurde das Programm R verwendet ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)), und für die Erstellung von Visualisierungen und Dashboards war die Verwendung von Power BI erforderlich ([`Klicke auf das Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection)). Schließlich wird der Abschlussbericht präsentiert ([`Klicke auf den Bericht `](https://drive.google.com/file/d/122bGlgqD3-JbLB6gHrge5rYu1__EQy1a/view)).
+
+
+<!-- Este proyecto de salud consistio en realizar diferentes Dashbords  a partir del conjunto de datos compartidos por la Krankekasse. Para la creación, transformación y filtraciónn de bases datos se utilizo el programa R  y para la creación de visualizaciones y dashbords se requirio el uso de Power Bi . Finalmente se presenta el informe final.
+[`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)
+
+
+
+
+
+**Code:** [`Power Bi`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection) y [`cancer`](https://drive.google.com/file/d/122bGlgqD3-JbLB6gHrge5rYu1__EQy1a/view)  
 
 **Description:**  Analysis of indicators such as population characterization and primary care in the EPS Sanitas
 
@@ -224,7 +234,11 @@ Este proyecto se realiza para la publicación de este [`artículo`](http://www.s
 **Technology:**   R, Power Bi.-->
 
 ### Veröffentlichungen der Zeitung El Diario
-<!--**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
+
+
+
+<!-- Este proyecto se
+**Code:** [`alto_ricaurte`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/alto_ricaurte).
 
 **Description:**  Three publications were made in the newspaper El diario analyzing the situation of the pandemic: [`Business panorama in Boyacá due to the covid-19 crisis`](https://periodicoeldiario.com/panorama-empresarial-en-boyaca-por-crisis-del-covid-19/),[`This is how the pandemic has hit the different productive sectors of Boyacá`](https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/), [`Pandemic and the agony of the vulnerable population in Boyacá`](https://periodicoeldiario.com/pandemia-y-la-agonia-de-la-poblacion-vulnerable-en-boyaca/).
 
