@@ -233,7 +233,9 @@ Dieses Gesundheitsprojekt bestand darin, verschiedene Dashboards aus dem von der
 In diesem Projekt, an dem ich als Redakteur für die Zeitung El Diario teilnahm, habe ich drei Berichte verfasst. Diese konzentrieren sich darauf, Zahlen während der Corona-Zeit zu analysieren:
 
 -[`Geschäftsausblick in Boyacá aufgrund der Covid-19-Krise`](https://periodicoeldiario.com/panorama-empresarial-en-boyaca-por-crisis-del-covid-19/)
--[`So hat die Pandemie die verschiedenen Produktionssektoren in Boyacá getroffen`] (https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/)
+
+-[`So hat die Pandemie die verschiedenen Produktionssektoren in Boyacá getroffen`](https://periodicoeldiario.com/asi-ha-golpeado-la-pandemia-a-los-distintos-sectores-productivos-de-boyaca/)
+
 -[`Pandemie und das Leiden der verwundbaren Bevölkerung in Boyacá`](https://periodicoeldiario.com/pandemia-y-la-agonia-de-la-poblacion-vulnerable-en-boyaca/)
 
 <!-- En este proyecto que participe como escritor del periodico El Diario, redactando 3 informes. Estos se centran en analizar cifras en epoca de Corona. 
