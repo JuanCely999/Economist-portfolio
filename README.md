@@ -26,18 +26,21 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 ## Inhaltsverzeichnis
 - [Über mich](#Über-mich)
 - [Portfolio Projects](#portfolio-projects)
-- [1.Phase](#1-phase)
-
-- [2.Phase](#2-phase)
-
-- [3.Phase](#3-phase)
-	+ [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
+- [1. Phase](#1-phase)
+        + [Wirtschaftsanalyse für das Spirituosenunternehmen von Boyacá Kolumbien](#wirtschaftsanalyse-für-das-spirituosenunternehmen-von-boyaca-kolumbien)
 	+ [Preisentwicklung in den Departements von Kolumbien Schätzung der neoklassischen Phillipskurve](#preisentwicklung-in-den-departements-von-kolumbien-schätzung-der-neoklassischen-phillipskurve)
-	+ [Weltweite Trends und Elemente der öffentlichen Politik](#weltweite-trends-und-elemente-der-öffentlichen-politik)
-	+ [Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID19 Eine Analyse der Stimmungen auf Twitter](#wahrnehmung-der-wirtschaft-lateinamerikas-und-der-karibik-aufgrund-von-covid-19-eine-analyse-der-stimmungen-auf-twitter)
+        + [Weltweite Trends und Elemente der öffentlichen Politik](#weltweite-trends-und-elemente-der-öffentlichen-politik)
+        + [Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID19 Eine Analyse der Stimmungen auf Twitter](#wahrnehmung-der-wirtschaft-lateinamerikas-und-der-karibik-aufgrund-von-covid-19-eine-analyse-der-stimmungen-auf-twitter)
+        + [Analyse der räumlichen Konfiguration der Landwirtschaft Der kolumbianische Fall](#analyse-der-räumlichen-konfiguration-der-landwirtschaft-der-kolumbianische-fall)
+        + [Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien](#wahrnehmungen-des-ländlichen-gemeinschaftstourismus-in-der-provinz-alto-ricaurte-boyacá-kolumbien)
+        + [Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá CREPIB](#diagnose-der-wettbewerbsfähigkeit-und-innovation-in-boyacá-crepib)
+- [2. Phase](#2-phase)
+
+- [3. Phase](#3-phase)
+	
+	
 	+ [Input Output Analyse: Eine Anwendung für die Wirtschaft von Boyacá Kolumbien](#Input-output-analyse-eine-anwendung-für-die-wirtschaft-von-boyacá-kolumbien)
-	+ [Analyse der räumlichen Konfiguration der Landwirtschaft Der kolumbianische Fall](#analyse-der-räumlichen-konfiguration-der-landwirtschaft-der-kolumbianische-fall)
-	+ [Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien](#wahrnehmungen-des-ländlichen-gemeinschaftstourismus-in-der-provinz-alto-ricaurte-boyacá-kolumbien)
+	
         + [Nachhaltige Energie in verwundbaren Gebieten Kolumbiens](#nachhaltige-energie-in-verwundbaren-gebieten-kolumbiens)
        
         
@@ -46,7 +49,6 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 	+ [Veröffentlichungen der Zeitung El Diario](#veröffentlichungen-der-zeitung-el-diario)
 	+ [Analyse von COVID-19 in Kolumbien](#analyse-von-covid-19-in-kolumbien)
 	+ [Marktstudie für den Bau Visota Projekt](#marktstudie-für-den-bau-visota-projekt)
-	+ [Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá CREPIB](#diagnose-der-wettbewerbsfähigkeit-und-innovation-in-boyacá-crepib)
 	+ [Wirtschaftsanalyse des Tourismus in Paipa](#wirtschaftsanalyse-des-tourismus-in-paipa)
 	+ [Institutionelles Vertrauen für den Tourismuswert in Tunja](#institutionelles-vertrauen-für-den-tourismuswert-in-tunja)
 	+ [Bestimmungsfaktoren des Intermediationssatzes in kolumbianischen Banken](#bestimmungsfaktoren-des-intermediationssatzes-in-kolumbianischen-banken)
