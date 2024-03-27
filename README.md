@@ -281,6 +281,8 @@ Dieses Projekt im Bereich nachhaltiger Bauweise beinhaltet die Analyse des Markt
 
 ### Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá - CREPIB
 
+
+https://drive.google.com/file/d/1o5bMvjw14_aNL2k8eTDtljMHRWx1fvtl/view
 ### Wirtschaftsanalyse des Tourismus in Paipa
 <!--**Code:**  [`andrade_code`](https://github.com/JuanCely999/Proyectos/blob/main/R_code/andrade_code/Paipa_inf.R).
 
