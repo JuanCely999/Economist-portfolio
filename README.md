@@ -33,6 +33,7 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 	+ [Input-Output-Analyse: Eine Anwendung für die Wirtschaft von Boyacá, Kolumbien](#Input-output-analysis-an-application-for-the-economy-of-Boyaca-Colombia)
 	+ [Analyse der räumlichen Konfiguration der Landwirtschaft: Der kolumbianische Fall](#analyzing-the-spatial-configuration-of-agriculture-the-colombian-case)
 	+ [Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien](#perceptions-of-rural-community-based-tourism-in-the-province-of-alto-ricaurte-boyaca)
+        + [Nachhaltige Energie in verwundbaren Gebieten Kolumbiens]
         
 - [Study Projects](#study-projects)
 	+ [Medizinische Studie zur Primärversorgung](#primary-care-medical-study-power-bi-and-r)
@@ -50,6 +51,7 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 	+ [Statistikgeschichte in Boyacá](#statistics-history-in-boyaca)
 	+ [Marktschätzung: Festlegung von Preisen für das Theater Suárez in Tunja](#market-estimate-fixing-rates-for-the-suarez-theater-in-Tunja)
 	+ [Beratung für den Master in Bildung](#Master-in-education-advisory)
+       
 	
 	
 - [Zertifikate](#certificates)
@@ -210,6 +212,10 @@ Este proyecto se realiza para la publicación de este [`artículo`](http://www.s
 **Technology:**  R, Python, Latex
 
 **Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.-->
+
+###Nachhaltige Energie in verwundbaren Gebieten Kolumbiens
+<!--Este proyecto de esnergis sostenible consistio en
+-->
 
 
 ## Study Projects
