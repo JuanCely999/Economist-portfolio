@@ -303,7 +303,8 @@ Dieses Projekt beinhaltet eine wirtschaftliche Analyse der wichtigsten touristis
 In diesem Projekt wird die Auswirkung der Governance auf die Wertschöpfungskette des Tourismus in Tunja und die Nutzung sozialer Netzwerke analysiert. Zunächst werden Textanalysen von Interviews mit Entscheidungsträgern durchgeführt und Web-Scraping von der Hauptseite von Twitter durchgeführt. Die gesamte Datenverarbeitung erfolgt mit R([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio)). Die wichtigsten Ergebnisse zeigen, dass der Tourismus in Tunja durch ein Spannungsfeld zwischen Institutionen und dem Vertrauen der Gemeinschaft gekennzeichnet ist. Es gibt einen Mangel an Governance in der Wertschöpfungskette aufgrund von Unterbrechungen in den Beziehungen, die sie integrieren. Dennoch muss eine Verbesserung erreicht werden, um die lokale Koordination zu stärken, das Bewusstsein in der Gemeinschaft zu schärfen, touristische Produkte anzubieten, die von Durchschnittstouristen nachgefragt werden, und in die Infrastruktur zu investieren, wie die Beschilderung von touristischen Attraktionen. Dadurch würde der Erlebniswert des Tourismus in Tunja erhöht und das Potenzial für regionale Entwicklung gesteigert werden ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1cFycBgkx6THfDz2QZ4V7qvJ9wWGnzg9T/view)).
 
 <!-- En este proyecto se analiza el impacto de la gobernanza de las relaciones de la cadena de valor del turismo en Tunja y el uso de las redes sociales. En primer lugar se realiza analisis de texto en entrevistas de tomadores de desiciones y se realiza Web Scrapping a la pagina principal de Twitter. Todo este procesamiento de datos se realiza con R. Los principales resultados muestran que el turismo en Tunja se caracteriza por un campo de tensión entre la institucionalidad y la confianza de la comunidad. Existe carencia de gobernabilidad en la cadena de valor dada las rupturas en las relaciones que la integran. No obstante se debe mejorar en fortalecer la articulación local, generar conciencia en la comunidad, ofrecer productos turísticos que demande el turista promedio, invertir en infraestructura vial como lo es la señalización de atractivos turísticos. De esta manera el valor
-experiencial del turismo en Tunja se vería incrementado y el potencial del desarrollo regional se estaría incrementando .
+experiencial del turismo en Tunja se vería incrementado y el potencial del desarrollo regional se estaría incrementando  ([`Klicke auf den Artikel`](https://drive.google.com/file/d/1cRvz5Lb8u1p6Gtch7SZR_bnR5--05hN3/view)).
+.
 
 
 **Code:**    [`lig_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio).
@@ -315,9 +316,14 @@ experiencial del turismo en Tunja se vería incrementado y el potencial del desa
 **Technology:** R, Python.-->
 
 ### Bestimmungsfaktoren des Intermediationssatzes in kolumbianischen Banken
-<!--**Code:** [`rosso`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso). 
+In diesem Projekt habe ich teilgenommen, um die Bestimmungsfaktoren für den Intermediationssatz in den Banken Kolumbiens zu analysieren. Zunächst habe ich die Finanzberichte der Handelsbanken Kolumbiens der letzten 20 Jahre monatlich extrahiert, wobei ich Tools wie SQL und R verwendet habe ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso)). Anschließend habe ich Berechnungen zwischen Datenbanken durchgeführt, um neue relevante Daten für das Projekt zu erstellen und deren anschließende Bedeutung für die finanzielle Situation des Landes zu ermitteln.
 
-**Description:** Financial research by professor [`Jhon Rosso`](https://www.researchgate.net/profile/John-Rosso)  and its subsequent publication.
+<!-- En este proyecto participe para analizar los DETERMINANTES DE LA TASA DE INTERMEDIACIÓN EN LOS BANCOS DE COLOMBIA. Inicialmente extraje los estados financieros de los bancos comerciales de Colombia de los ultimos 20 años mensualmente, utilizando herramientas como SQL Y R . Luego realice calculos entre bases de datos para crear nuevos datos relevantes para el proyecto y su posterior importancia en la situación financiera del pais
+
+
+**Code:** [`rosso`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/rosso). 
+
+**Description:** Financial research by professor [`Jhon Rosso`](https://drive.google.com/file/d/1cRvz5Lb8u1p6Gtch7SZR_bnR5--05hN3/view)  and its subsequent publication.
 
 **Skills:** data cleaning, data analysis.
 
@@ -387,8 +393,9 @@ experiencial del turismo en Tunja se vería incrementado y el potencial del desa
 **Technology:**   R, Stata. -->
 
 ## Zertifikate
-[`Zeugnis`](https://drive.google.com/file/d/1nx3QLRo2XCnasQU-iQzWaGc4G9TVfvkI/view)
-[`Bachelor`](https://drive.google.com/file/d/1jRZq7KnWFW0xogkprXqLOEMorfj-zt3o/view)
+-[`Zeugnis`](https://drive.google.com/file/d/1nx3QLRo2XCnasQU-iQzWaGc4G9TVfvkI/view)
+
+-[`Bachelor`](https://drive.google.com/file/d/1jRZq7KnWFW0xogkprXqLOEMorfj-zt3o/view)
 
 
 ## Contacts
