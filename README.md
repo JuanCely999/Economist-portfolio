@@ -300,7 +300,13 @@ Dieses Projekt beinhaltet eine wirtschaftliche Analyse der wichtigsten touristis
 **Technology:**   R, Python, google analytics.  -->
 
 ### Institutionelles Vertrauen für den Tourismuswert in Tunja
-<!--**Code:**    [`lig_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio).
+In diesem Projekt wird die Auswirkung der Governance auf die Wertschöpfungskette des Tourismus in Tunja und die Nutzung sozialer Netzwerke analysiert. Zunächst werden Textanalysen von Interviews mit Entscheidungsträgern durchgeführt und Web-Scraping von der Hauptseite von Twitter durchgeführt. Die gesamte Datenverarbeitung erfolgt mit R([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio)). Die wichtigsten Ergebnisse zeigen, dass der Tourismus in Tunja durch ein Spannungsfeld zwischen Institutionen und dem Vertrauen der Gemeinschaft gekennzeichnet ist. Es gibt einen Mangel an Governance in der Wertschöpfungskette aufgrund von Unterbrechungen in den Beziehungen, die sie integrieren. Dennoch muss eine Verbesserung erreicht werden, um die lokale Koordination zu stärken, das Bewusstsein in der Gemeinschaft zu schärfen, touristische Produkte anzubieten, die von Durchschnittstouristen nachgefragt werden, und in die Infrastruktur zu investieren, wie die Beschilderung von touristischen Attraktionen. Dadurch würde der Erlebniswert des Tourismus in Tunja erhöht und das Potenzial für regionale Entwicklung gesteigert werden ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1cFycBgkx6THfDz2QZ4V7qvJ9wWGnzg9T/view)).
+
+<!-- En este proyecto se analiza el impacto de la gobernanza de las relaciones de la cadena de valor del turismo en Tunja y el uso de las redes sociales. En primer lugar se realiza analisis de texto en entrevistas de tomadores de desiciones y se realiza Web Scrapping a la pagina principal de Twitter. Todo este procesamiento de datos se realiza con R. Los principales resultados muestran que el turismo en Tunja se caracteriza por un campo de tensión entre la institucionalidad y la confianza de la comunidad. Existe carencia de gobernabilidad en la cadena de valor dada las rupturas en las relaciones que la integran. No obstante se debe mejorar en fortalecer la articulación local, generar conciencia en la comunidad, ofrecer productos turísticos que demande el turista promedio, invertir en infraestructura vial como lo es la señalización de atractivos turísticos. De esta manera el valor
+experiencial del turismo en Tunja se vería incrementado y el potencial del desarrollo regional se estaría incrementando .
+
+
+**Code:**    [`lig_studio`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/lig_studio).
 
 **Description:**  The impact of the governance of the relations of the tourism value chain in Tunja and the use of social networks are evaluated [`here`](https://drive.google.com/file/d/1cFycBgkx6THfDz2QZ4V7qvJ9wWGnzg9T/view).
 
