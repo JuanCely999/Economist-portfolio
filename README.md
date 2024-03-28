@@ -58,8 +58,8 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
        
 	
 	
-- [Zertifikate](#certificates)
-- [Kontakte](#contacts)
+- [Zertifikate](#zertifikate)
+- [Kontakte](#kontakte)
 
 ## Portfolioprojekte
 In diesem Abschnitt werde ich Datenanalyseprojekte auflisten und kurz die verwendete Technologie beschreiben, um Probleme zu lösen.
