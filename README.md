@@ -63,7 +63,7 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 
 ## Portfolioprojekte
 In diesem Abschnitt werde ich Datenanalyseprojekte auflisten und kurz die verwendete Technologie beschreiben, um Probleme zu lösen.
-
+## 1. Phase
 ### Wirtschaftsanalyse für das Spirituosenunternehmen von Boyaca Kolumbien
 Dieses Projekt wurde für das Spirituosenunternehmen in Boyacá über die Universität durchgeführt. Das Ziel des Projekts bestand darin, die zukünftige Produktion des Spirituosenherstellers zu definieren, da er aufgrund der Pandemie Probleme hatte. Das Spirituosenunternehmen hatte finanzielle Probleme, da es während und nach der Pandemie seine Produktionsziele auf den Vertrieb umstellte, was sich auf seine Produktionskapazität und -effektivität auswirkte. Zu Beginn extrahierte ich Informationen aus internationalen und lokalen Datenbankplattformen, um das Verkaufsverhalten des Alkohols zu analysieren. Außerdem wurden die lokalen Verkäufe in allen Spirituosengeschäften in Boyacá analysiert, um sie mit diesem Unternehmen zu vergleichen. Diese Datenauswertung wurde mit R und Python durchgeführt ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/LicoreraR)). Um das Konsumentenverhalten von Alkoholkonsumenten in der gesamten Region zu analysieren, wurde SQL als technologisches Werkzeug zur Verwaltung des Datensatzes verwendet.
 
@@ -83,7 +83,7 @@ Estos modelos se realizaron en R.
 
 Las visualizaciones las realice en herramientas como excel, tableu y power Bi. Yo realice un informe y luego yo realice presentaciones a los tomadores de descisiones de la licorera.
 clic en el codigo. clic en el informe. Klicke auf den Code. Klicke auf den Bericht.-->
-
+## 2. Phase
 ### Preisentwicklung in den Departements von Kolumbien: Schätzung der neoklassischen Phillipskurve
 Dieses Projekt wurde an der Universität durchgeführt, um die Dynamik der Inflation in den Departements von Kolumbien zu analysieren. Dieses Projekt ist wichtig, da es wertvolle Informationen für die Geldpolitik und verschiedene wirtschaftliche Bereiche des Landes liefert. Das Hauptziel besteht darin, das Phillips-Kurvenmodell zu erstellen, das aufgrund seiner Verwendung in führenden Weltbanken hervorgehoben wird. Zur Erstellung dieses Modells musste eine große Menge an Daten extrahiert werden. Ich sammelte Informationen über die Arbeitslöhne der gesamten kolumbianischen Bevölkerung zwischen 2009 und 2019 monatlich, die dann mit nationalen Statistiken (BIP, Inflation) mit dem SQL-Tool gefiltert, organisiert und verglichen wurden. Nach dem Erhalt der standardisierten Informationen wurden Statistiken durchgeführt, um das Verhalten der anfänglichen Variablen mittels des R-Programms zu analysieren ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Tesis)) . Das Modell zeigt eine geringe Wahrscheinlichkeit für Preisänderungen in einigen Departements, insbesondere in der Mitte des Landes. Es wird auch die Bedeutung der Inflation mit den Erwartungen der kolumbianischen Unternehmen beim Festlegen der Preise anerkannt ([`Klicke auf den Bericht`](https://drive.google.com/file/d/1WJCswhReXtnIM9o9RTMOHxmNLDNN_Q9w/view)).
 
