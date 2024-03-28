@@ -157,26 +157,7 @@ Dieses Projekt besteht darin, die Wahrnehmung der Wirtschaft über das soziale N
 
 **Results:** The search for public sensations experienced during the crisis brought with it an increase in comments on issues related to the economy, containing negative perceptions.-->
 
-### Input Output-Analyse: Eine Anwendung für die Wirtschaft von Boyacá, Kolumbien
-Dieses Projekt zielt darauf ab, die wirtschaftliche Entwicklung der Region zu analysieren. Es werden Daten aus den 32 Wirtschaftszweigen der nationalen Statistiken extrahiert und deren Zusammenarbeit durch das SQL-Programm untersucht. Anschließend wird mit R und Excel ein matrizenbasiertes Modell erstellt, um die Sektoren zu identifizieren, die das Wachstum der Region anhand von Produktion, Beschäftigung und Einkommen vorantreiben oder bremsen ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo)). Die Ergebnisse zeigen, dass es wenig Integration zwischen den Sektoren gibt, da viele unabhängig voneinander arbeiten. Sektoren wie Elektrizität, Öl und Telekommunikation sind wichtig, um das Wachstum anderer zu fördern. Diese Erkenntnisse sind für die Regierung bei der Formulierung öffentlicher Politik entscheidend ([`Klicke auf den Artikel`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567)). 
 
-
-
-
-
-<!--    Este proyecto consiste en analizar el desarrollo economico de la región. Se extrae  cifras de las 32 actividades economicas de las estadisticas nacionales y como entre ellas trabajan conjuntas desde el programa SQL. Luego se realiza un modelo matricial con el programa R y Excel para identificar los sectores de la economia que impulsan y detienen la productividad de la region segun el producto, empleo e ingreso. Entre los resultados de este proyecto se muestra que existe poca integración entre sectores ya que muchos de ellos trabajan independientes. Sectores como la electricidad, el petroleo y las telecomunicaciones son importantes para ayudar a crecer a los demas. Estos hallazgos son fundamentales para el gobierno al momento de realizar politicas publicas
-
-
-
-**Code:** [`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
-
-**Description:**  This project is carried out for the publication of this [`article`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567). Based on the branches of economic activity, the base, independent, key and driving sectors are determined according to matrix calculations. Then the income, employment and product multipliers are evaluated by correlations and 3D visualizations. 
-
-**Skills:**  descriptive statistics, data visualization, data cleaning, data transforms, data analysis, writing report.
-
-**Technology:** Advanced Excel, R. 
-
-**Results:** Low multipliers in most branches of the economy which demonstrates the low diversification of the economy and backwardness compared to other departments. There is little integration of the economy, this is denoted by the exaggerated number of independent sectors and the incipient key sectors.    -->
 
 ### Analyse der räumlichen Konfiguration der Landwirtschaft: Der kolumbianische Fall
 Dieses Projekt untersucht die Landwirtschaft in Kolumbien aus räumlicher Perspektive. Es werden Informationen aus den nationalen Statistiken zur Produktion und räumlichen Positionierung extrahiert. Mit dem Programm R wird eine deskriptive statistische Analyse durchgeführt, um aktuelle Trends in der kolumbianischen Agrarproduktion zu erkennen([`chapter`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Chapter)). Die räumliche Analyse der landwirtschaftlichen Produktion und die statistische Analyse zeigen eine zufällige Verteilung über das gesamte Gebiet, was die Vielfalt der Produktion und ein zerstreutes räumliches Muster zeigt. Die unterschiedliche Vielfalt der Produktion scheint inkonsistent mit der geringen Diversifizierung des kolumbianischen Exportangebots zu sein. Diese Ergebnisse sind für die öffentlichen Politikbereiche im Bereich der Landwirtschaft relevant (Klicke auf das [`Kapitel`](https://drive.google.com/file/d/1hP-mO_OGtPyKMCzf9cJ68bp0jsGJg1Qz/view) dieses [`Buches`](https://www.igi-global.com/chapter/analyzing-the-spatial-configuration-of-agriculture/317831)).
@@ -216,15 +197,33 @@ Este proyecto se realiza para la publicación de este [`artículo`](http://www.s
 **Technology:**  R, Python, Latex
 
 **Results:** It was identified in the interviews through opinion mining that "trust" allows or leads to arrangements that favor the entire society inhabiting the region, consensus in which individuals and authorities can define the type of tourism development, which is the aspect of this investigation.-->
-
+## 3. Phase
 ### Nachhaltige Energie in verwundbaren Gebieten Kolumbiens
 Dieses nachhaltige Energieprojekt mit dem Konsortium OPREC SAS bestand darin, die Energieabdeckung in den verwundbarsten Gebieten durch die Installation von Solarpanels zu gewährleisten. Dies wurde durch die Datensammlung der Bevölkerung, die Erstellung von Datenbanken und die Kreuzung von Informationen mithilfe von SQL und R erreicht  ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/oprec)). Außerdem habe ich Visualisierungen zur wirtschaftlichen Charakterisierung der Regionen erstellt ([`Klicke auf den Bericht `](https://drive.google.com/file/d/1nSY3kazkfqBnhGqQ2F52sK4lsTQaw-kC/view))
 
 <!--Este proyecto de energia sostenible con el Consorcio OPREC SAS consistio en cumplir con la cobertura energetica en los lugares mas vulnerables a partir de la instalacion de paneles solares. Esto se logro a travez de la recoleccion de datos de la población, creacion de bases de datos, cruce de información con el uso de SQL y R. Ademas realice visualizaciones en la caracterización economica de las regiones. 
 -->
+## 4. Phase
+### Input Output-Analyse: Eine Anwendung für die Wirtschaft von Boyacá, Kolumbien
+Dieses Projekt zielt darauf ab, die wirtschaftliche Entwicklung der Region zu analysieren. Es werden Daten aus den 32 Wirtschaftszweigen der nationalen Statistiken extrahiert und deren Zusammenarbeit durch das SQL-Programm untersucht. Anschließend wird mit R und Excel ein matrizenbasiertes Modell erstellt, um die Sektoren zu identifizieren, die das Wachstum der Region anhand von Produktion, Beschäftigung und Einkommen vorantreiben oder bremsen ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo)). Die Ergebnisse zeigen, dass es wenig Integration zwischen den Sektoren gibt, da viele unabhängig voneinander arbeiten. Sektoren wie Elektrizität, Öl und Telekommunikation sind wichtig, um das Wachstum anderer zu fördern. Diese Erkenntnisse sind für die Regierung bei der Formulierung öffentlicher Politik entscheidend ([`Klicke auf den Artikel`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567)). 
 
 
-## Study Projects
+
+
+
+<!--    Este proyecto consiste en analizar el desarrollo economico de la región. Se extrae  cifras de las 32 actividades economicas de las estadisticas nacionales y como entre ellas trabajan conjuntas desde el programa SQL. Luego se realiza un modelo matricial con el programa R y Excel para identificar los sectores de la economia que impulsan y detienen la productividad de la region segun el producto, empleo e ingreso. Entre los resultados de este proyecto se muestra que existe poca integración entre sectores ya que muchos de ellos trabajan independientes. Sectores como la electricidad, el petroleo y las telecomunicaciones son importantes para ayudar a crecer a los demas. Estos hallazgos son fundamentales para el gobierno al momento de realizar politicas publicas
+
+
+
+**Code:** [`analisis_insumo`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/analisis_insumo).
+
+**Description:**  This project is carried out for the publication of this [`article`](http://revistas.ustatunja.edu.co/index.php/ivestigium/article/view/1720/1567). Based on the branches of economic activity, the base, independent, key and driving sectors are determined according to matrix calculations. Then the income, employment and product multipliers are evaluated by correlations and 3D visualizations. 
+
+**Skills:**  descriptive statistics, data visualization, data cleaning, data transforms, data analysis, writing report.
+
+**Technology:** Advanced Excel, R. 
+
+**Results:** Low multipliers in most branches of the economy which demonstrates the low diversification of the economy and backwardness compared to other departments. There is little integration of the economy, this is denoted by the exaggerated number of independent sectors and the incipient key sectors.    -->
 <!--In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.-->
 ### Medizinische Studie zur Primärversorgung
 Dieses Gesundheitsprojekt bestand darin, verschiedene Dashboards aus dem von der Krankenkasse bereitgestellten Datensatz zu erstellen. Für die Erstellung, Transformation und Filterung von Datenbanken wurde das Programm R verwendet ([`Klicke auf den Code`](https://github.com/JuanCely999/Proyectos/tree/main/R_code/Cancer)), und für die Erstellung von Visualisierungen und Dashboards war die Verwendung von Power BI erforderlich ([`Klicke auf das Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiNWJmMjg5NmEtNjAwZC00MzE0LWI5MjItNGIwNDJhMmE0NjgxIiwidCI6ImY4ZDU5OTkxLTZmNWItNDg0YS04MWNjLTgxZTYzNGRmYWFiYSJ9&pageName=ReportSection)). Schließlich wird der Abschlussbericht präsentiert ([`Klicke auf den Bericht `](https://drive.google.com/file/d/122bGlgqD3-JbLB6gHrge5rYu1__EQy1a/view)).
