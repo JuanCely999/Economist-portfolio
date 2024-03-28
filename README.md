@@ -36,7 +36,7 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
   + [Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID19 Eine Analyse der Stimmungen auf Twitter](#wahrnehmung-der-wirtschaft-lateinamerikas-und-der-karibik-aufgrund-von-covid-19-eine-analyse-der-stimmungen-auf-twitter)
   + [Analyse der räumlichen Konfiguration der Landwirtschaft Der kolumbianische Fall](#analyse-der-räumlichen-konfiguration-der-landwirtschaft-der-kolumbianische-fall)
   + [Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien](#wahrnehmungen-des-ländlichen-gemeinschaftstourismus-in-der-provinz-alto-ricaurte-boyacá-kolumbien)
- + [Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá CREPIB](#diagnose-der-wettbewerbsfähigkeit-und-innovation-in-boyacá-crepib)
+  + [Diagnose der Wettbewerbsfähigkeit und Innovation in Boyacá CREPIB](#diagnose-der-wettbewerbsfähigkeit-und-innovation-in-boyacá-crepib)
 - [3. Phase](#3-phase)
 	+ [Nachhaltige Energie in verwundbaren Gebieten Kolumbiens](#nachhaltige-energie-in-verwundbaren-gebieten-kolumbiens)
 - [4. Phase](#4-phase)	
