@@ -32,7 +32,7 @@ Dieses Repository dient dazu, meine Fähigkeiten zu präsentieren, meine Projekt
 
 
   + [Preisentwicklung in den Departements von Kolumbien Schätzung der neoklassischen Phillipskurve](#preisentwicklung-in-den-departements-von-kolumbien-schätzung-der-neoklassischen-phillipskurve)
-        + [Weltweite Trends und Elemente der öffentlichen Politik](#weltweite-trends-und-elemente-der-öffentlichen-politik)
+  + [Weltweite Trends und Elemente der öffentlichen Politik](#weltweite-trends-und-elemente-der-öffentlichen-politik)
         + [Wahrnehmung der Wirtschaft Lateinamerikas und der Karibik aufgrund von COVID19 Eine Analyse der Stimmungen auf Twitter](#wahrnehmung-der-wirtschaft-lateinamerikas-und-der-karibik-aufgrund-von-covid-19-eine-analyse-der-stimmungen-auf-twitter)
         + [Analyse der räumlichen Konfiguration der Landwirtschaft Der kolumbianische Fall](#analyse-der-räumlichen-konfiguration-der-landwirtschaft-der-kolumbianische-fall)
         + [Wahrnehmungen des ländlichen Gemeinschaftstourismus in der Provinz Alto Ricaurte Boyacá Kolumbien](#wahrnehmungen-des-ländlichen-gemeinschaftstourismus-in-der-provinz-alto-ricaurte-boyacá-kolumbien)
